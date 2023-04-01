@@ -1,0 +1,287 @@
+[BSBCATRiflemanAussie]
+MyName="Anti-Tank Rifleman"
+AltName="Fuciliere controcarro"
+Article="un "
+PluralName="Anti-Tank Riflemen"
+InfoText="Fuciliere controcarro - Difficolta': Alta||Armato con un fucile di grosso calibro che spara proiettili perforanti, il fuciliere controcarro era efficiente contro veicoli, carri leggeri e medi. Equipaggiato con un caricatore da 5 colpi, il fucile controcarro a retrocarica manuale, era in grado di compromettere i componenti principali di un veicolo in un bassissimo lasso di tempo, ma solo colpendo i reali punti deboli del veicolo ed in determinate circostanze. Pazienza e perseveranza sono i requisiti maggiormente richiesti per un efficace utilizzo del fucile controcarro Boys."
+
+[BSBCATRiflemanStd]
+MyName="Anti-Tank Rifleman"
+AltName="Fuciliere controcarro"
+Article="un "
+PluralName="Anti-Tank Riflemen"
+InfoText="Fuciliere controcarro - Difficolta': Alta||Armato con un fucile di grosso calibro che spara proiettili perforanti, il fuciliere controcarro era efficiente contro veicoli, carri leggeri e medi. Equipaggiato con un caricatore da 5 colpi, il fucile controcarro a retrocarica manuale, era in grado di compromettere i componenti principali di un veicolo in un bassissimo lasso di tempo, ma solo colpendo i reali punti deboli del veicolo ed in determinate circostanze. Pazienza e perseveranza sono i requisiti maggiormente richiesti per un efficace utilizzo del fucile controcarro Boys."
+
+[BSBCAssaultAussie]
+MyName="Submachine Gunner"
+AltName="Fuciliere d'assalto"
+Article="un "
+PluralName="Submachine Gunners"
+InfoText="Fuciliere assaltatore - Difficolta': Bassa||Il ruolo del fuciliere assaltatore consiste nel fornire volume di fuoco nel combattimento ravvicinato durante gli assalti diretti ad occupare le postazioni nemiche. Con una pistola mitragliatrice e le granate a frammentazione, è equipaggiato in modo da ripulire le aree di svariati obbiettivi. Con queste caratteristiche, troverà spazio fondamentalmente in prima linea, sia durante un coraggioso assalto frontale che in fase di stazionamento difensivo presso l'obiettivo difeso. Il fuciliere assaltatore, tuttavia, è efficiente solo sul medio-corto raggio, e deve quindi affidarsi alla copertura dei fucilieri e mitraglieri della sua squadra per poter così raggiungere le aree di fuoco effettivo di corto raggio a lui più confacenti."
+
+[BSBCAssaultStd]
+MyName="Submachine Gunner"
+AltName="Fuciliere assaltatore"
+Article="un "
+PluralName="Submachine Gunners"
+InfoText="Fuciliere assaltatore - Difficolta': Bassa||Il ruolo del fuciliere assaltatore consiste nel fornire volume di fuoco nel combattimento ravvicinato durante gli assalti diretti ad occupare le postazioni nemiche. Con una pistola mitragliatrice e le granate a frammentazione, è equipaggiato in modo da ripulire le aree di svariati obbiettivi. Con queste caratteristiche, troverà spazio fondamentalmente in prima linea, sia durante un coraggioso assalto frontale che in fase di stazionamento difensivo presso l'obiettivo difeso. Il fuciliere assaltatore, tuttavia, è efficiente solo sul medio-corto raggio, e deve quindi affidarsi alla copertura dei fucilieri e mitraglieri della sua squadra per poter così raggiungere le aree di fuoco effettivo di corto raggio a lui più confacenti."
+
+[BSBCCombatEngineerAussie]
+MyName="Sapper"
+AltName="Geniere"
+Article="un "
+PluralName="Sapper"
+InfoText="Geniere d'assalto - Difficolta': Alta||Inizialmente addestrato come fante e successivamente come geniere da campo, il geniere è in grado di supportare la sua squadra tramite varie abilità, tra le quali la demolizione, assalti diretti a postazioni intensamente fortificate, piazzamento e rimozione di mine, attraversamento di corsi fluviali via imbarcazione o previo costruzione di ponti. Il suo addestramento con gli esplosivi è essenziale per il completamento di alcuni obbiettivi della squadra, ed il loro impiego può essere risolutivo anche contro i veicoli e la fanteria nemica, nonchè contro stutture difensive."
+
+[BSBCCombatEngineerStd]
+MyName="Sapper"
+AltName="Geniere"
+Article="un "
+PluralName="Sapper"
+InfoText="Geniere d'assalto - Difficolta': Alta||Inizialmente addestrato come fante e successivamente come geniere da campo, il geniere è in grado di supportare la sua squadra tramite varie abilità, tra le quali la demolizione, assalti diretti a postazioni intensamente fortificate, piazzamento e rimozione di mine, attraversamento di corsi fluviali via imbarcazione o previo costruzione di ponti. Il suo addestramento con gli esplosivi è essenziale per il completamento di alcuni obbiettivi della squadra, ed il loro impiego può essere risolutivo anche contro i veicoli e la fanteria nemica, nonchè contro stutture difensive."
+
+[BSBCGunnerAussie]
+MyName="Support Gunner"
+AltName="Mitragliere"
+Article="un "
+PluralName="Support Gunners"
+InfoText="Mitragliere di supporto - Difficolta': Alta||Il mitragliere di supporto il volume di fuoco primario di qualsiasi squadra, sia in fase offensiva che difensiva. Seppur carente dell'alto rateo di fuoco delle mitragliatrici tedesche, il Bren era una mitragliatrice leggera tremendamente efficiente, capace di tiri accurati da medio a lungo raggio, senza particolari rischi di surriscaldamento. A causa del peso del Bren, il mitragliere affida alla sua squadra il trasporto della maggior parte delle sue munizioni, per essere così rifornito una volta in posizione. Siccome però il Bren era più leggero della maggior parte delle altre mitragliatrici, il mitragliere era in grado di fare fuoco di copertura durante gli assalti frontali anche imbracciando l'arma al suo fianco."
+
+[BSBCGunnerStd]
+MyName="Support Gunner"
+AltName="Mitragliere"
+Article="un "
+PluralName="Support Gunners"
+InfoText="Mitragliere di supporto - Difficolta': Alta||Il mitragliere di supporto il volume di fuoco primario di qualsiasi squadra, sia in fase offensiva che difensiva. Seppur carente dell'alto rateo di fuoco delle mitragliatrici tedesche, il Bren era una mitragliatrice leggera tremendamente efficiente, capace di tiri accurati da medio a lungo raggio, senza particolari rischi di surriscaldamento. A causa del peso del Bren, il mitragliere affida alla sua squadra il trasporto della maggior parte delle sue munizioni, per essere così rifornito una volta in posizione. Siccome però il Bren era più leggero della maggior parte delle altre mitragliatrici, il mitragliere era in grado di fare fuoco di copertura durante gli assalti frontali anche imbracciando l'arma al suo fianco."
+
+[BSBCRiflemanAussie]
+MyName="Rifleman"
+AltName="Fuciliere"
+Article="un "
+PluralName="Riflemen"
+InfoText="Fuciliere - Difficolta': Normale||Il fuciliere, colonna portante di ogni squadra del Commonwealth, ha il compito primario di conquistare e controllare un'area. Il suo fucile a retrocarica manuale gli consente di colpire bersagli sulla media-lunga distanza, anche se i bersagli più lontani sono più facile preda del tiratore scelto. Dovrebbe avvicinarsi al nemico sconfiggendolo tramite l'impiego del suo fucile e le sue granate --anche con il corpo a corpo se necessario--, ma dovrebbe essere sempre accompagnato durante gli assalti da almeno uno o più fucilieri d'assalto, dotati di pistola mitragliatrice per gli scontri ravvicinati."
+
+[BSBCRiflemanStd]
+MyName="Rifleman"
+AltName="Fuciliere"
+Article="un "
+PluralName="Riflemen"
+InfoText="Fuciliere - Difficolta': Normale||Il fuciliere, colonna portante di ogni squadra del Commonwealth, ha il compito primario di conquistare e controllare un'area. Il suo fucile a retrocarica manuale gli consente di colpire bersagli sulla media-lunga distanza, anche se i bersagli più lontani sono più facile preda del tiratore scelto. Dovrebbe avvicinarsi al nemico sconfiggendolo tramite l'impiego del suo fucile e le sue granate --anche con il corpo a corpo se necessario--, ma dovrebbe essere sempre accompagnato durante gli assalti da almeno uno o più fucilieri d'assalto, dotati di pistola mitragliatrice per gli scontri ravvicinati."
+
+[BSBCSniperAussie]
+MyName="Marksman"
+AltName="Tiratore scelto"
+Article="un "
+PluralName="Marksmen"
+InfoText="Tiratore scelto - Difficolta': Alta||Selezionato durante gli addestramenti come ottimo tiratore ed equipaggiato con un fucile dotato di ottica di precisione, il ruolo del tiratore scelto all'interno della squadra è quello di provvedere al fuoco di precisione su raggi che eccedono la normale gittata di un fuciliere standard. I suoi obbiettivi primari dovrebbero essere soggetti di primaria importanza per la squadra avversaria, come ad esempio ufficiali, vedette, mitraglieri o tiratori scelti rivali. In più, il tiratore dovrebbe mirare a limitare i movimenti nemici negandogli l'accesso a punti strategici od aree aperte. Seppur avendo generalmente un ruolo di supporto, il tiratore scelto dovrebbe sempre muoversi parallelamente alla propria squadra, fornendo fuoco di precisione ove essa lo richieda maggiormente."
+
+[BSBCSniperStd]
+MyName="Sniper"
+AltName="Tiratore scelto"
+Article="uno "
+PluralName="Snipers"
+InfoText="Tiratore scelto - Difficolta': Alta||Selezionato durante gli addestramenti come ottimo tiratore ed equipaggiato con un fucile dotato di ottica di precisione, il ruolo del tiratore scelto all'interno della squadra è quello di provvedere al fuoco di precisione su raggi che eccedono la normale gittata di un fuciliere standard. I suoi obbiettivi primari dovrebbero essere soggetti di primaria importanza per la squadra avversaria, come ad esempio ufficiali, vedette, mitraglieri o tiratori scelti rivali. In più, il tiratore dovrebbe mirare a limitare i movimenti nemici negandogli l'accesso a punti strategici od aree aperte. Seppur avendo generalmente un ruolo di supporto, il tiratore scelto dovrebbe sempre muoversi parallelamente alla propria squadra, fornendo fuoco di precisione ove essa lo richieda maggiormente."
+
+[BSBCSquadLeaderAussie]
+MyName="Section Leader"
+AltName="Caposquadra"
+Article="un "
+PluralName="Section Leaders"
+InfoText="Caposquadra - Difficolta': Molto alta||Il caposquadra, selezionato tra i giovani ufficiali o anziani sottufficiali, ha il compito primario di coordinare la squadra per poter così conseguire al completamento degli obbiettivi assegnati. Per portare a termine questo compito, egli può inoltre utilizzare la radio per il tiro di artiglieria indiretto, con proiettili esplosivi o fumogeni, onde poter ottenere uno schermo di fumo che possa così consentire gli spostamenti dei suoi uomini. I suoi superiori si aspettano che faccia da esempio, infondendo alla sua squadra uno spirito vittorioso anche contro i più acerrimi ed ostinati nemici."
+
+[BSBCSquadLeaderStd]
+MyName="Section Leader"
+AltName="Caposquadra"
+Article="un "
+PluralName="Section Leaders"
+InfoText="Caposquadra - Difficolta': Molto alta||Il caposquadra, selezionato tra i giovani ufficiali o anziani sottufficiali, ha il compito primario di coordinare la squadra per poter così conseguire al completamento degli obbiettivi assegnati. Per portare a termine questo compito, egli può inoltre utilizzare la radio per il tiro di artiglieria indiretto, con proiettili esplosivi o fumogeni, onde poter ottenere uno schermo di fumo che possa così consentire gli spostamenti dei suoi uomini. I suoi superiori si aspettano che faccia da esempio, infondendo alla sua squadra uno spirito vittorioso anche contro i più acerrimi ed ostinati nemici."
+
+[BSBCTankCommanderStd]
+MyName="Tank Commander"
+AltName="Capocarro"
+Article="un "
+PluralName="Tank Commanders"
+InfoText="Capocarro - Difficolta': Alta||Il capocarro ha il compito di individuare i bersagli al cannoniere e coordinare l'equipaggio del carro, siccome è solitamente l'unico membro a bordo in grado di avere una maggiore visuale ed una conseguente consapevolezza tattica. Essendo un ufficiale o sottufficiale, è anche in grado di dirigere le operazioni di una formazione di carri da un veicolo o carro di comando equipaggiato con un radio a lungo campo. I suoi numerosi compiti sono molto spesso resi ancora più complicati dalle limitazioni del personale di certi carri, forzandolo ad interagire sia come spotter, che come cannoniere, che come comandante simultaneamente. Quando è a bordo di un carro equipaggiato con una radio a lungo raggio, il capocarro è in grado di richiedere del fuoco di artiglieria indiretto od uno schermo di granate fumogene per la sua squadra."
+
+[BSBCTankerStd]
+MyName="Tank Crewman"
+AltName="Carrista"
+Article="un "
+PluralName="Tank Crewmen"
+InfoText="Carrista - Difficolta': Alta||Ogni membro dell'equipaggio di un carro ha un compito particolare ad egli assegnato ed un limitato campo di vista abbinato alla sua postazione. I ruoli principali che variano da carro a carro sono il mitragliere, il servente, il cannoniere/radiofonista ed il pilota. Solo un carrista addestrato è in grado di poter prendere parte con successo a questi ruoli. A causa degli spazi ristretti all'interno del carro, al carrista è assegnata una sola arma secondaria, che gli offre una limitatissima protezione qualora fosse forzato ad uscire dal carro durante la battaglia."
+
+[BSGEAntiTankRifleH]
+MyName="PanzerSchütze"
+AltName="Fuciliere controcarro"
+Article="un "
+PluralName="PanzerSchützen"
+InfoText="PanzerSchütze - Difficolta':Alta||Testo temporaneo per il ruolo di fuciliere controcarro."
+
+[BSGEAssaultH]
+MyName="Stoßtruppe"
+AltName="Fante assaltatore"
+Article="un "
+PluralName="Stoßtruppen"
+InfoText="Stoßtruppe - Difficolta':Bassa||I tedeschi usavano chiamare sia la fanteria che i genieri come 'Stoßtruppe'(trad. fante d'assalto), con l'obiettivo di equipaggiarli in tal modo da consentergli di riuscire ad assaltare postazioni pesantemente fortificate. Questo equipaggiamento gli permette di fare fuoco pesante quando vicini al nemico, ma tuttavia li rende molto vulnerabili sul medio raggio. Questa fu la ragione dell'inserimento dello StürmGewehr, con il suo mix tra volumi di fuoco e gittate.||Equipaggiamento: MP40, granate"
+
+[BSGECombatEngineerH]
+MyName="Stoßtruppspioniere"
+AltName="Guastatore"
+Article="un "
+PluralName="Stoßtruppspionieren"
+InfoText="Stoßtruppspionieren - Difficolta':Alta||I guastatori erano specialisti, originariamente addestrati come fanti, seguiva poi un addestramento aggiuntivo come genieri. Garantivano un suppporto diretto alla divisione, portando avanti di norma i seguenti compiti: demolizione, assalto di postazioni fortificate, posizionamento strategico e disinnesco mine, costruzione di ponti di fortuna ed attraversamenti fluviali d'assalto."
+
+[BSGEGreatAntiTankRifleH]
+MyName="PanzerSchütze"
+AltName="Fuciliere Controcarro"
+Article="un "
+PluralName="PanzerSchützen"
+InfoText="PanzerSchütze - Difficolta':Alta||Testo temporaneo per il ruolo di fuciliere controcarro."
+
+[BSGEGreatAssaultH]
+MyName="Stoßtruppe"
+AltName="Fante assaltatore"
+Article="un "
+PluralName="Stoßtruppen"
+InfoText="Stoßtruppe - Difficolta':Bassa||I tedeschi usavano chiamare sia la fanteria che i genieri come 'Stoßtruppe'(trad. fante d'assalto), con l'obiettivo di equipaggiarli in tal modo da consentergli di riuscire ad assaltare postazioni pesantemente fortificate. Questo equipaggiamento gli permette di fare fuoco pesante quando vicini al nemico, ma tuttavia li rende molto vulnerabili sul medio raggio. Questa fu la ragione dell'inserimento dello StürmGewehr, con il suo mix tra volumi di fuoco e gittate.||Equipaggiamento: MP40, granate"
+
+[BSGEGreatCombatEngineerH]
+MyName="Stoßtruppspioniere"
+AltName="Guastatore"
+Article="un "
+PluralName="Stoßtruppspionieren"
+InfoText="Stoßtruppspionieren - Difficolta':Alta||I guastatori erano specialisti, originariamente addestrati come fanti, seguiva poi un addestramento aggiuntivo come genieri. Garantivano un suppporto diretto alla divisione, portando avanti di norma i seguenti compiti: demolizione, assalto di postazioni fortificate, posizionamento strategico e disinnesco mine, costruzione di ponti di fortuna ed attraversamenti fluviali d'assalto."
+
+[BSGEGreatGunnerH]
+MyName="MG-Schütze"
+AltName="Mitragliere"
+Article="un "
+PluralName="MG-Schütze"
+InfoText="MG-Schütze - Difficolta':Alta||Armato con una mitragliatrice leggera, il mitragliere fornisce alla squadra la risorsa primaria in termini di volume di fuoco. Una mitragliatrice leggera può infierire un insormantabile danno al nemico, ma è necessario utilizzarla con cautela onde evitarne il surriscaldamento ed il conseguente spreco di munizioni. Dato che la mitragliatrice leggera non è un'arma da combattimento ravvicinato, il mitragliere necessita anche la protezione della squadra. Previo un impiego intelligente della stessa, una vedetta, ed una sufficente riserva di munizioni, il mitragliere può tenere a bada il nemico praticamente a tempo indeterminato.||Equipaggiamento: MG34, P38|* Il mitragliere tedesco può rimettere in funzione la sua mitragliatrice più velocemente degli altri, e può inoltre sostituire la canna nel caso in cui si surriscaldi. Nel caso in cui un capo squadra individui per lui un bersaglio, questo ne aumenterà la sua precisione."
+
+[BSGEGreatRiflemanH]
+MyName="Schütze"
+AltName="Fuciliere"
+Article="un "
+PluralName="Schützen"
+InfoText="Schütze - Difficolta':Normale||Lo Schütze è la colonna portante del plotone di fanteria tedesco. E' incaricato di conquistare terriotori e mantenerne il possesso. Tramite l'impiego del suo fucile Mauser, può colpire il nemico da una media ad una lunga gittata.||Equipaggiamento: Kar98K, baionetta, granate."
+
+[BSGEGreatSniperH]
+MyName="Scharfschütze"
+AltName="Tiratore Scelto"
+Article="un "
+PluralName="Scharfschützen"
+InfoText="Scharfschütze - Difficolta':Alta||Lo Scharfschütze è uno specialista nel campo del tiro e il camuffaggio. Egli operava separatamente dal plotone di fanteria fino al 1944, muovendosi come un lupo solitario fino ad allora. Il suo compito consisteva nell'identificazione e l'eliminazione di personaggi chiave nemici. Lo Scharfschütze è effettivo sul lungo raggio, specialmente se ben nascosto, ma è straordinariamente vulnerabile a distanza ravvicinata. Una volta identificato, gli è più conveniente svanire silenziosamente anzichè affrontare il confronto diretto.|| Equipaggiamento: Kar98K con ottica, P38, granate||* Uno Scharfschütze dotato di fucile con ottica, è più preciso di un qualsiasi altro soldato."
+
+[BSGEGreatSquadLeaderH]
+MyName="Gruppenführer"
+AltName="Caposquadra"
+Article="un "
+PluralName="Gruppenführer"
+InfoText="Gruppenführer - Difficolta':Molto Alta||Il Gruppenführer è un sottufficiale a capo della squadra. Suo dovere è portare a compimento gli obbiettivi della squadra, dirigendo i suoi uomini in combattimento ed assicurandosi che il fuoco delle mitragliatrici sia posizionato a dovere. Equipaggiato per il combattimento ravvicinato,  Equipped for close quarters combat, il Gruppenführer farebbe sempre meglio a posizionarsi in seconda linea dirigendo la sua squadra piuttosto che ingaggiare il nemico in prima persona.|| Equipaggiamento: MP40, granate||* Il Gruppenführer velocizza una volta e mezzo il tempo di conquista di un obiettivo, sempre che egli si trovi nell'area di cattura."
+
+[BSGEGunnerH]
+MyName="MG-Schütze"
+AltName="Mitragliere"
+Article="un "
+PluralName="MG-Schütze"
+InfoText="MG-Schütze - Difficolta':Alta||Armato con una mitragliatrice leggera, il mitragliere fornisce alla squadra la risorsa primaria in termini di volume di fuoco. Una mitragliatrice leggera può infierire un insormantabile danno al nemico, ma è necessario utilizzarla con cautela onde evitarne il surriscaldamento ed il conseguente spreco di munizioni. Dato che la mitragliatrice leggera non è un'arma da combattimento ravvicinato, il mitragliere necessita anche la protezione della squadra. Previo un impiego intelligente della stessa, una vedetta, ed una sufficente riserva di munizioni, il mitragliere può tenere a bada il nemico praticamente a tempo indeterminato.||Equipaggiamento: MG34, P38|* Il mitragliere tedesco può rimettere in funzione la sua mitragliatrice più velocemente degli altri, e può inoltre sostituire la canna nel caso in cui si surriscaldi. Nel caso in cui un capo squadra individui per lui un bersaglio, questo ne aumenterà la sua precisione."
+
+[BSGERiflemanH]
+MyName="Schütze"
+AltName="Fuciliere"
+Article="un "
+PluralName="Schützen"
+InfoText="Schütze - Difficolta':Normale||Lo Schütze è la colonna portante del plotone di fanteria tedesco. E' incaricato di conquistare terriotori e mantenerne il possesso. Tramite l'impiego del suo fucile Mauser, può colpire il nemico da una media ad una lunga gittata.||Equipaggiamento: Kar98K, baionetta, granate."
+
+[BSGESniperH]
+MyName="Scharfschütze"
+AltName="Tiratore Scelto"
+Article="un "
+PluralName="Scharfschützen"
+InfoText="Scharfschütze - Difficolta':Alta||Lo Scharfschütze è uno specialista nel campo del tiro e il camuffaggio. Egli operava separatamente dal plotone di fanteria fino al 1944, muovendosi come un lupo solitario fino ad allora. Il suo compito consisteva nell'identificazione e l'eliminazione di personaggi chiave nemici. Lo Scharfschütze è effettivo sul lungo raggio, specialmente se ben nascosto, ma è straordinariamente vulnerabile a distanza ravvicinata. Una volta identificato, gli è più conveniente svanire silenziosamente anzichè affrontare il confronto diretto.|| Equipaggiamento: Kar98K con ottica, P38, granate||* Uno Scharfschütze dotato di fucile con ottica, è più preciso di un qualsiasi altro soldato."
+
+[BSGESquadLeaderH]
+MyName="Gruppenführer"
+AltName="Caposquadra"
+Article="un "
+PluralName="Gruppenführer"
+InfoText="Gruppenführer - Difficolta':Molto Alta||Il Gruppenführer è un sottufficiale a capo della squadra. Suo dovere è portare a compimento gli obbiettivi della squadra, dirigendo i suoi uomini in combattimento ed assicurandosi che il fuoco delle mitragliatrici sia posizionato a dovere. Equipaggiato per il combattimento ravvicinato,  Equipped for close quarters combat, il Gruppenführer farebbe sempre meglio a posizionarsi in seconda linea dirigendo la sua squadra piuttosto che ingaggiare il nemico in prima persona.|| Equipaggiamento: MP40, granate||* Il Gruppenführer velocizza una volta e mezzo il tempo di conquista di un obiettivo, sempre che egli si trovi nell'area di cattura."
+
+[BSGETankCommanderH]
+MyName="Panzerführer"
+AltName="Capocarro"
+Article="un "
+PluralName="PanzerFührer"
+InfoText="PanzerFührer - Difficolta':||Il Panzerführer è un ufficiale o sottufficiale capocarro. Il suo compito è quello di individuare i bersagli per il cannoniere ed altresì quello di dirigere il resto dell'equipaggio. Solitamente era l'unico uomo a bordo in grado di avere una visuale a 360°. Poteva, essendo comandante di plotone, guidare un intera squadriglia di carri armati. Questo era un compito molto difficile, reso ancora più complicato a bordo di certi carri ove il comandante faceva anche allo stesso tempo da cannoniere."
+
+[BSGETankerH]
+MyName="Panzerbesatzung"
+AltName="Carrista"
+Article="un "
+PluralName="Panzerbesatzung"
+InfoText="Panzerbesatzung - Difficolta':||Il Panzerbesatzung (carrista) poteva avere diversi ruoli all'interno del carro: mitragliere, servente, cannoniere/radiofonista e pilota. Ciascuno di essi costituiva un ruolo specifico, che richiedeva un addestramento altrettanto specifico. Ognuno di essi aveva un settore di visuale assegnato, verso il quale dovevano continuamente tenere gli occhi ben aperti per individuare il nemico, questo sempre prestando attenzione al loro incarico primario."
+
+[BSITAntiTank]
+MyName="Fuciliere Controcarro"
+AltName="Fuciliere Controcarro"
+Article="un "
+PluralName="Fucilieri Controcarro"
+InfoText="Fuciliere controcarro - Difficolta':Alta||I fucilieri controcarro potevano attaccare veicoli corazzati e distruggerli con un'arma anticarro leggera. Essi erano anche in grado di far fuori un determinato tipo di difese e ostacoli. Il fuciliere anticarro non era però una classe di soldato con la quale assaltare un obiettivo. Lo scopo primario era piuttosto quello di distruggere veicoli da trasporto leggeri e pesanti. || Il fucile anticarro Solothurn spingeva ai limiti quello che poteva essere considerato un fucile di fanteria portatile. Sebbene questi fucili vantassero performance migliori rispetto al Boys o al Browning (potendo perforare lamiere di 300mm da una distanza di 500mt), le loro dimensioni ed il loro peso (ben 50kg!) furono il loro maggiore handicap. Il fucile svizzero Solothurn sparava proiettili AP da 20mm."
+
+[BSITAssault]
+MyName="Bersagliere assaltatore"
+AltName="Bersagliere assaltatore"
+Article="un "
+PluralName="Bersaglieri assaltatori"
+InfoText="Bersagliere assaltatore - Difficolta':Bassa||I reggimenti di Bersaglieri si espansero a tre battaglioni ciascuno durante la seconda guerra mondiale, ma il Regio Esercito resistette alla tentazione di far calare la loro qualità, tanto che le reclute dovevano necessariamente avere corporatura e resistenza superiori alla media. Essi dovettero sostenere un intenso allenamento fisico, così come anche i loro bisnonni fecero, e dovettero qualificarsi come tiratori scelti. I primi Bersaglieri a combattere in Nord Africa furono quelli del 10°Reggimento Bersaglieri, che arrivarono in Libia all'inizio del 1941. L'arrivo fu un disastro, in quanto i carri inglesi tesero al convoglio un'imboscata all'interno di quello che lo staff del reggimento aveva definito un'area sicura. In tutto, sei dei dodici reggimenti combatterono, registrando grandi successi in combattimento. Più di una volta, le unità di Bersaglieri combatterono fino all'ultimo uomo per tenere una posizione, mentre le unità tedesche correvano via."
+
+[BSITBersagliereRifleman]
+MyName="Bersagliere"
+AltName="Bersagliere"
+Article="un "
+PluralName="Bersaglieri"
+InfoText="Bersagliere - Difficolta':Normale||I reggimenti di Bersaglieri si espansero a tre battaglioni ciascuno durante la seconda guerra mondiale, ma il Regio Esercito resistette alla tentazione di far calare la loro qualità, tanto che le reclute dovevano necessariamente avere corporatura e resistenza superiori alla media. Essi dovettero sostenere un intenso allenamento fisico, così come anche i loro bisnonni fecero, e dovettero qualificarsi come tiratori scelti. I primi Bersaglieri a combattere in Nord Africa furono quelli del 10°Reggimento Bersaglieri, che arrivarono in Libia all'inizio del 1941. L'arrivo fu un disastro, in quanto i carri inglesi tesero al convoglio un'imboscata all'interno di quello che lo staff del reggimento aveva definito un'area sicura. In tutto, sei dei dodici reggimenti combatterono, registrando grandi successi in combattimento. Più di una volta, le unità di Bersaglieri combatterono fino all'ultimo uomo per tenere una posizione, mentre le unità tedesche correvano via."
+
+[BSITCombatEngineer]
+MyName="Guastatore"
+AltName="Guastatore"
+Article="un "
+PluralName="Guastatori"
+InfoText="Guastatore - Difficolta':Alta||Nove compagnie di guastatori furono formate nel 1940, reindirizzate poi alla nuova scuola guastatori. Le prime quattro di queste completarono il loro corso nel Settembre del 1940 ed inizialmente operarono indipendentemente nell'Italia del Nord e presero parte alle operazioni in Yugoslavia nell'Aprile del 1941. Il 18 di Aprile del 1941 furono organizzati nel XXXI (31°) Battaglione Guastatori. Il 16 di Settembre si imbarcarono sulla nave "Vulcania" a Taranto e raggiunsero Tripoli, in Libia, 2 giorni dopo. Contemporaneamente, il secondo gruppo di guastatori finiva il suo addestramento nel Novembre 1940 e le compagnie 3a "Folgore" e 4a "Uragano" furono inviate a Tripoli arrivando nel Gennaio del 1941. Inizialmente furono impiegati al fianco delle normali unità di genieri, preparando fortificazioni mentre al fronte la situazione rimaneva calma."
+
+[BSITGunner]
+MyName="Mitragliere"
+AltName="Mitragliere"
+Article="un "
+PluralName="Mitraglieri"
+InfoText="Mitragliere - Difficolta':Molto Alta||Armato col fucile mitragliatore Breda mod.30, il mitragliere combina una buona potenza di fuoco ad una rapida manovrabilità. Il mitragliere è essenziale nel fornire uno schiacciante volume di fuoco soppressivo nel corto e medio raggio. Nessun squadra di fuoco può considerarsi completa senza un mitragliere. Egli è parte delle squadre di fucilieri, e rappresenta la punta rovente che deve aprire la strada. Il suo fucile mitragliatore è la più micidiale arma nel combattimento ravvicinato, che di norma non dovrebbe essere impiegata a più di 400 metri di distanza dal bersaglio. In posizione difensiva, le mitragliatrici stabiliscono basi di fuoco avanzate, e dispongono linee di fuoco incrociate davanti alla linea della resistenza, dando origine ad una fitta rete di fuoco automatico radente."
+
+[BSITParatrooper]
+MyName="Paracadutista"
+AltName="Paracadutista"
+Article="un "
+PluralName="Paracadutisti"
+InfoText="Paracadutista - Difficolta':Bassa||E' un fatto poco conosciuto che l'Italia fu la prima nazione a mettere in azione soldati paracadutisti (1° lancio in combattimento nel 1918). Dal 1938 ci furono sia paracadutisti nazionali che libici ad esercitarsi a Caster Benito, la prima scuola per paracadutisti situata nei pressi di Tripoli. Quando la guerra scoppiò, nel 1940 si formarono 3 ulteriori battaglioni nazionali, due dei quali ebbero l'incarico di esercitarsi per formare una divisione paracadutista entro il 1942. I primi paracadutisti a vedere l'azione furono quelli dei battaglioni nazionali e libici durante l'Operazione Compass, che aveva l'obbiettivo di fermare l'avanzata inglese nella Cirenaica durante la ritirata della 10^ armata. Una delle pagine più epiche della storia militare, comunque sia, stando sia ai rapporti inglesi che tedeschi, fu scritta dalla Divisione Folgore ad El Alamein in Nord Africa."
+
+[BSITRifleman]
+MyName="Fuciliere"
+AltName="Fuciliere"
+Article="un "
+PluralName="Fucilieri"
+InfoText="Fuciliere - Difficolta':Normale||I fucilieri furono la colonna portante del Regio Esercito. Non erano volontari; bensì furono reclutati come idonei al servizio di leva. Non si trovarono lì per fare gli eroi, ma spesso i giovani eroi furono i più grandi. Loro erano lì per vincere la guerra e tornare finalmente a casa, alle loro fattorie e ai loro villaggi. Armati con varie versioni del vecchio fucile Carcano, i fucilieri dovettero affidarsi più al proprio coraggio che alla tecnologia. Spesso il loro unico supporto fu quello datogli dai coraggiosi artiglieri, che fianco a fianco, su qualsiasi fronte, affrontarono l'ondata della macchina da guerra alleata."
+
+[BSITSniper]
+MyName="Tiratore scelto"
+AltName="Tiratore scelto"
+Article="un "
+PluralName="Tiratori scelti"
+InfoText="Tiratore scelto - Difficolta':Alta||Il cecchino può essere impiegato in fase offensiva, ingaggiando bersagli individuali dalla lunga distanza oppure come ricognitore. I cecchini usano fucili a retrocarica manuale, e operano solitamente in maniera indipendente dal resto del team, a gruppi di due. Il loro obbiettivo è dare la caccia a bersagli prioritari, i quali sono gli altri cecchini e gli ufficiali nemici. Quando si opera come cecchini, è sempre consigliato avere al proprio fianco un altro uomo con la funzione di osservatore e supporto per tiro ravvicinato.||Seppuere già allora fossero estramente rari, 3 esemplari di M91 militari assemblati con telescopi della Salmoiraghi di Milano e dell'Ottica San Giorgio di Genova sono oggi visibili al Museo delle Armi di Terni. Questi produttori erano ancora in attività durante la seconda guerra mondiale, cosicchè la Filotecnica si associò alla Salmoiraghi e producerono un telescopio da montare sul 91/38, solo per uso sperimentale."
+
+[BSITSquadLeader]
+MyName="Caposquadra"
+AltName="Caposquadra"
+Article="un "
+PluralName="Capisquadra"
+InfoText="Caposquadra - Difficolta':Molto Alta||I soldati del Regio Esercito agivano come membri di una squadra. Le squadre erano comandate da un caposquadra, che generalmente aveva il grado di sergente. Armati con le stesse armi dei fucilieri o più semplicemente con una pistola, i caposquadra erano inoltre equipaggiati con dei binocoli. Il caposquadra poteva inoltre usare la radio di squadra per impartire ordini o per indirizzare il fuoco di artiglieria. Il saper gestire le situazioni durante il combattimento era il loro compito primario, il che richiedeva competenza, carattere e talento. I caposquadra si occupavano di sincronizzare gli sforzi delle squadre di fuoco, accollandosi tutta la responsabilità del successo o del fallimento di una missione."
+

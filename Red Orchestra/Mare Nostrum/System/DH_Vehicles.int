@@ -1,0 +1,514 @@
+[DH_50CalDamType]
+DeathString="%o was killed by %k's .50 cal machine gun."
+FemaleSuicide="%o was killed by her own .50 cal machine gun."
+MaleSuicide="%o was killed by his own .50 cal machine gun."
+
+[DH_AchillesCannon]
+ProjectileDescriptions=("APCBC","APDS","HE")
+nProjectileDescriptions=("Mk.IV APC","Mk.I APDS","Mk.I HE-T")
+
+[DH_AchillesTank]
+VehicleNameString="Achilles Mk.IC"
+
+[DH_BA64ArmoredCar]
+VehicleNameString="BA64 Armored Car"
+
+[DH_BT7Cannon]
+ProjectileDescriptions=("APHE-T","HE")
+nProjectileDescriptions=("BR-240","O-240")
+
+[DH_BT7Tank]
+VehicleNameString="BT-7"
+
+[DH_BesaDamType]
+DeathString="%o was killed by %k's Besa machine gun."
+FemaleSuicide="%o was killed by her own Besa machine gun."
+MaleSuicide="%o was killed by his own Besa machine gun."
+
+[DH_BrenCarrierTransport]
+VehicleNameString="Bren Carrier Mk.I"
+
+[DH_ChurchillMkVIICannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M61 APC","M48 HE-T","M89 WP")
+
+[DH_ChurchillMkVIITank]
+VehicleNameString="Churchill Mk.VII"
+
+[DH_Cromwell6PdrCannon]
+ProjectileDescriptions=("APCBC","HE",)
+nProjectileDescriptions=("Mk.IX APC","Mk.X HE-T",)
+
+[DH_Cromwell6PdrTank]
+VehicleNameString="Cromwell Mk.I"
+
+[DH_Cromwell95mmCannon]
+ProjectileDescriptions=("HE","Smoke","HEAT")
+nProjectileDescriptions=("Mk.IA HE-T","Mk.IA SMK-BE","Mk.I HEAT")
+
+[DH_Cromwell95mmTank]
+VehicleNameString="Cromwell Mk.VI"
+
+[DH_CromwellCannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M61 APC","M48 HE-T","M64 WP")
+
+[DH_CromwellTank]
+VehicleNameString="Cromwell Mk.IV"
+
+[DH_Flak38Cannon]
+ProjectileDescriptions=("Mixed","AP","HE-T")
+nProjectileDescriptions=("PzGr.+Sprgr.39","PzGr.","Sprgr.39")
+
+[DH_GAZ67Vehicle]
+VehicleNameString="GAZ-67"
+
+[DH_GMCTruck]
+VehicleNameString="GMC CCKW"
+
+[DH_GMCTruckSupport]
+VehicleNameString="GMC CCKW (Logistics)"
+
+[DH_GMCTruckTransport]
+VehicleNameString="GMC CCKW (Transport)"
+
+[DH_GermanCarrierTransport]
+VehicleNameString="Bren 731(e)"
+
+[DH_GreyhoundArmoredCar]
+VehicleNameString="M8 Armored Car"
+
+[DH_GreyhoundArmoredCar_British]
+VehicleNameString="Greyhound Armoured Car"
+
+[DH_GreyhoundCannon]
+ProjectileDescriptions=("APCBC","HE","Canister")
+nProjectileDescriptions=("M51B1 APC","M63 HE-T","M2 Canister")
+
+[DH_HellcatCannon]
+ProjectileDescriptions=("APCBC","HVAP","HE")
+nProjectileDescriptions=("M62 APC","M93 HVAP","M42A1 HE-T")
+
+[DH_HellcatTank]
+VehicleNameString="M18 Hellcat"
+
+[DH_HetzerCannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","Nbgr.Kw.K")
+
+[DH_HetzerDestroyer]
+VehicleNameString="Jagdpanzer 38(t) 'Hetzer'"
+
+[DH_HetzerVehicleMessage]
+MGBlockingHatch="MG is blocking the hatch - turn it sideways to open"
+
+[DH_HigginsBoat]
+VehicleNameString="Higgins Boat"
+
+[DH_IS2Cannon]
+ProjectileDescriptions=("AP","HE")
+nProjectileDescriptions=("BR-471","OF-471")
+
+[DH_IS2Cannon_Late]
+ProjectileDescriptions=("APBC","HE")
+nProjectileDescriptions=("BR-471B","OF-471")
+
+[DH_IS2Tank]
+VehicleNameString="IS2"
+
+[DH_ISU152Cannon]
+ProjectileDescriptions=("HE","AP")
+nProjectileDescriptions=("OF-540","BR-540")
+
+[DH_ISU152Cannon_Late]
+ProjectileDescriptions=("HE","APBC")
+nProjectileDescriptions=("OF-540","BR-540B")
+
+[DH_ISU152Destroyer]
+VehicleNameString="ISU-152"
+
+[DH_JacksonCannon]
+ProjectileDescriptions=("APCBC","HVAP","HE")
+nProjectileDescriptions=("M82 APC","M304 HVAP","M71 HE-T")
+
+[DH_JacksonCannon_Early]
+ProjectileDescriptions=("APCBC","AP","HE")
+nProjectileDescriptions=("M82 APC","M77 AP-T","M71 HE-T")
+
+[DH_JacksonTank]
+VehicleNameString="M36 Jackson"
+
+[DH_JagdpantherCannon]
+nProjectileDescriptions=("PzGr.39/43","Sprgr.Patr.")
+
+[DH_JagdpantherTank]
+VehicleNameString="Jagdpanzer V 'Jagdpanther'"
+
+[DH_JagdpanzerIVL48Cannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","Nbgr.Kw.K")
+
+[DH_JagdpanzerIVL48Destroyer]
+VehicleNameString="Jagdpanzer IV/48"
+
+[DH_JagdpanzerIVL70Cannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39/42","PzGr.40/42","Sprgr.Patr.42")
+
+[DH_JagdpanzerIVL70Destroyer]
+VehicleNameString="Jagdpanzer IV/70(V)"
+
+[DH_JagdtigerCannon]
+nProjectileDescriptions=("PzGr.39","Schw.Spgr.Patr")
+
+[DH_JagdtigerTank]
+VehicleNameString="Jagdpanzer VI 'Jagdtiger' Ausf.B"
+
+[DH_KV1ETank]
+VehicleNameString="KV-1E"
+
+[DH_KV1sCannon]
+nProjectileDescriptions=("BR-350BSP","OF-350")
+
+[DH_KV1sCannon_Late]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-350B","OF-350","BR-350P")
+
+[DH_KV1sTank]
+VehicleNameString="KV-1S"
+
+[DH_KubelwagenCar_WH]
+VehicleNameString="Volkswagen Type 82"
+
+[DH_LocustCannon]
+ProjectileDescriptions=("APCBC","HE","Canister")
+nProjectileDescriptions=("M51B1 APC","M63 HE-T","M2 Canister")
+
+[DH_LocustTank]
+VehicleNameString="M22 Locust **WIP**"
+
+[DH_M16Halftrack]
+VehicleNameString="M16 Halftrack"
+
+[DH_M3A1HalftrackTransport]
+VehicleNameString="M3A1 Halftrack"
+
+[DH_M7Priest]
+VehicleNameString="M7 Priest"
+
+[DH_M7PriestCannon]
+ProjectileDescriptions=("HE-1","Smoke","HEAT")
+nProjectileDescriptions=("M1 HE-T","M60 WP","M67 HEAT")
+
+[DH_Marder3MCannon]
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34")
+
+[DH_Marder3MDestroyer]
+VehicleNameString="Marder III Ausf.M"
+
+[DH_OpelBlitz]
+VehicleNameString="Opel Blitz"
+
+[DH_OpelBlitzSupport]
+VehicleNameString="Opel Blitz (Logistics)"
+
+[DH_OpelBlitzTransport]
+VehicleNameString="Opel Blitz (Transport)"
+
+[DH_PantherDCannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39/42","PzGr.40/42","Sprgr.Patr.42")
+
+[DH_PantherDTank]
+VehicleNameString="Panzer V 'Panther' Ausf.D"
+
+[DH_PantherGTank]
+VehicleNameString="Panzer V 'Panther' Ausf.G"
+
+[DH_PanzerIIIJCannon]
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.38")
+
+[DH_PanzerIIIJTank]
+VehicleNameString="Panzer III Ausf.J"
+
+[DH_PanzerIIILCannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39","PzGr.40","Sprgr.Patr.38")
+
+[DH_PanzerIIILTank]
+VehicleNameString="Panzer III Ausf.L"
+
+[DH_PanzerIIILTank_Camo]
+VehicleNameString="Panzer III Ausf.M"
+
+[DH_PanzerIIINCannon]
+ProjectileDescriptions=("HE","HEAT","Canister")
+nProjectileDescriptions=("Sprgr.Kw.K.","Gr.38 Hl/C","Kt.Kw.K")
+
+[DH_PanzerIIINTank]
+VehicleNameString="Panzer III Ausf.N"
+
+[DH_PanzerIVF1Cannon]
+ProjectileDescriptions=("APCBC","HEAT","HE")
+nProjectileDescriptions=("K.Gr.rot Pz.","Gr.38 Hl/B","Sprgr.Kw.K.")
+
+[DH_PanzerIVF1CannonPawn]
+VehiclePositionString="in a Panzer IV F1 cannon"
+VehicleNameString="Panzer IV F1 Cannon"
+
+[DH_PanzerIVF1Tank]
+VehicleNameString="Panzer IV Ausf.F1"
+
+[DH_PanzerIVGEarlyCannon]
+ProjectileDescriptions=("APCBC","HE","HEAT")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","Gr.38 Hl/B")
+
+[DH_PanzerIVGEarlyTank]
+VehicleNameString="Panzer IV Ausf.G"
+
+[DH_PanzerIVGLateCannon]
+ProjectileDescriptions=("APCBC","HE","HEAT")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","Gr.38 Hl/C")
+
+[DH_PanzerIVGLateTank]
+VehicleNameString="Panzer IV Ausf.G"
+
+[DH_PanzerIVHTank]
+VehicleNameString="Panzer IV Ausf.H"
+
+[DH_PanzerIVJTank]
+VehicleNameString="Panzer IV Ausf.J"
+
+[DH_SU76Cannon]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-350B","OF-350","BR-350P")
+
+[DH_SU76Destroyer]
+VehicleNameString="SU-76M"
+
+[DH_SdKfz2519DCannon]
+ProjectileDescriptions=("HE","HEAT","SMOKE")
+nProjectileDescriptions=("Sprgr.Kw.K.","Gr.38 Hl/C","Nbgr.Kw.K.")
+
+[DH_SdKfz2519DTransport]
+VehicleNameString="Sd.Kfz.251/9 Ausf.D Stummel"
+
+[DH_SdKfz251_22Transport]
+VehicleNameString="Sd.Kfz.251/22 Halftrack"
+
+[DH_Sdkfz105Transport]
+VehicleNameString="Sd.Kfz. 10/5"
+
+[DH_Sdkfz2341ArmoredCar]
+VehicleNameString="Sd.Kfz.234/1 Armored Car"
+
+[DH_Sdkfz2341Cannon]
+ProjectileDescriptions=("Mixed","AP","HE-T")
+nProjectileDescriptions=("PzGr.+Sprgr.39","PzGr.","Sprgr.39")
+
+[DH_Sdkfz2342ArmoredCar]
+VehicleNameString="Sd.Kfz.234/2 Armored Car"
+
+[DH_Sdkfz2342Cannon]
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.38")
+
+[DH_Sdkfz251Transport]
+VehicleNameString="Sd.Kfz.251 Halftrack"
+
+[DH_ShermanCannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M61 APC","M48 HE-T","M64 WP")
+
+[DH_ShermanCannonA_76mm]
+ProjectileDescriptions=("APCBC","HVAP","HE")
+nProjectileDescriptions=("M62 APC","M93 HVAP","M42A1 HE-T")
+
+[DH_ShermanCannonA_76mm_Early]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M62 APC","M42A1 HE-T","M88 HC")
+
+[DH_ShermanCannon_M4A3105_Howitzer]
+ProjectileDescriptions=("HE","Smoke","HEAT")
+nProjectileDescriptions=("M1 HE-T","M60 WP","M67 HEAT")
+
+[DH_ShermanCannon_M4A3E2_Jumbo]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M61 APC","M48 HE-T","M64 WP")
+
+[DH_ShermanCannon_M4A3E8]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M62 APC","M42 HE","M88 HC")
+
+[DH_ShermanFireFlyCannon]
+ProjectileDescriptions=("APCBC","APDS","HE")
+nProjectileDescriptions=("Mk.IV APC","Mk.I APDS","Mk.I HE-T")
+
+[DH_ShermanFireflyTank]
+VehicleNameString="Sherman Mk.VC 'Firefly'"
+
+[DH_ShermanTank]
+VehicleNameString="M4A1(75) Sherman"
+
+[DH_ShermanTankA_M4A176W]
+VehicleNameString="M4A1(76) Sherman"
+
+[DH_ShermanTank_British]
+VehicleNameString="Sherman Mk.II"
+
+[DH_ShermanTank_DDay]
+VehicleNameString="M4A1(75) Sherman DD"
+
+[DH_ShermanTank_M4A275W_Soviet]
+VehicleNameString="M4A2(75)W"
+
+[DH_ShermanTank_M4A276W_Soviet]
+VehicleNameString="M4A2(76)W"
+
+[DH_ShermanTank_M4A3105_Howitzer]
+VehicleNameString="M4A3(105) Sherman"
+
+[DH_ShermanTank_M4A375W]
+VehicleNameString="M4A3(75)W Sherman"
+
+[DH_ShermanTank_M4A376W]
+VehicleNameString="M4A3(76)W Sherman"
+
+[DH_ShermanTank_M4A3E2_Jumbo]
+VehicleNameString="M4A3E2(75)W Sherman"
+
+[DH_ShermanTank_M4A3E8]
+VehicleNameString="Sherman M4A3E8"
+
+[DH_ShermanTank_M4A3E8_Fury]
+VehicleNameString="Sherman M4A3E8 'Fury'"
+
+[DH_ShermanTank_M4A3E8_ZombieSlayer]
+VehicleNameString="Sherman M4A3E8 'Zombie Slayer'"
+
+[DH_StuH42Cannon]
+ProjectileDescriptions=("HE","Smoke","HEAT")
+nProjectileDescriptions=("Sprgr.Patr.","F.H.Gr.Nb.","Gr.38 Hl/C")
+
+[DH_StuH42Destroyer]
+VehicleNameString="StuH42 Ausf.G"
+
+[DH_StuartCannon]
+ProjectileDescriptions=("APCBC","HE","Canister")
+nProjectileDescriptions=("M51B1 APC","M63 HE-T","M2 Canister")
+
+[DH_StuartTank]
+VehicleNameString="M5 Stuart"
+
+[DH_StuartTank_British]
+VehicleNameString="Stuart Mk.VI"
+
+[DH_Stug3GCannon]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","Nbgr.Kw.K")
+
+[DH_Stug3GDestroyer]
+VehicleNameString="StuG III Ausf.G"
+
+[DH_T3476Cannon]
+ProjectileDescriptions=("APBC","HE")
+nProjectileDescriptions=("BR-350A","OF-350")
+
+[DH_T3476Tank]
+VehicleNameString="T34/76"
+
+[DH_T3476Tank_German]
+VehicleNameString="Panzer T-34"
+
+[DH_T3476Tank_GermanB]
+VehicleNameString="Panzer T-34"
+
+[DH_T3476_42Cannon]
+ProjectileDescriptions=("APBC","HE")
+nProjectileDescriptions=("BR-350BSP","OF-350")
+
+[DH_T3476_42Tank]
+VehicleNameString="T34/76 m42"
+
+[DH_T3476_43Cannon]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-350B","OF-350","BR-350P")
+
+[DH_T3476_43Tank]
+VehicleNameString="T34/76 m43"
+
+[DH_T3485Cannon]
+ProjectileDescriptions=("APBC","APCR","HE")
+nProjectileDescriptions=("BR-365","BR-365P","O-365")
+
+[DH_T3485Cannon_Berlin]
+nProjectileDescriptions=("BR-365B","BR-365P","O-365")
+
+[DH_T3485Tank]
+VehicleNameString="T34/85"
+
+[DH_T3485Tank_German]
+VehicleNameString="Panzer T-34"
+
+[DH_T60Cannon]
+ProjectileDescriptions=("AP-T","HE")
+nProjectileDescriptions=("BZT")
+
+[DH_T60Tank]
+VehicleNameString="T-60 Light Tank"
+
+[DH_T_4F1Tank]
+VehicleNameString="T-IV mod.F"
+
+[DH_T_4GEarlyTank]
+VehicleNameString="T-IV mod.G"
+
+[DH_T_5GTank]
+VehicleNameString="T-V 'Pantera' mod.G"
+
+[DH_Tiger2BCannon]
+nProjectileDescriptions=("PzGr.39/43","Sprgr.Patr.")
+
+[DH_Tiger2BTank]
+VehicleNameString="Panzer VI 'King Tiger' Ausf.B"
+
+[DH_TigerCannon]
+nProjectileDescriptions=("PzGr.39","Schw.Sprgr.Patr.")
+
+[DH_TigerTank]
+VehicleNameString="Panzer VI 'Tiger' Ausf.E"
+
+[DH_TigerTank_Butcher]
+VehicleNameString="Panzer VI Ausf.E 'Butcher'"
+
+[DH_UniversalCarrierTransport]
+VehicleNameString="Universal Carrier"
+
+[DH_WillysJeep]
+VehicleNameString="Willys Jeep MB"
+
+[DH_WirbelwindTank]
+VehicleNameString="Flakpanzer IV 'Wirbelwind'"
+
+[DH_WolverineCannon]
+ProjectileDescriptions=("APCBC","HVAP","HE")
+nProjectileDescriptions=("M62 APC","M93 HVAP","M42A1 HE-T")
+
+[DH_WolverineCannon_Early]
+ProjectileDescriptions=("APCBC","HE","Smoke")
+nProjectileDescriptions=("M62 APC","M42A1 HE-T","M88 HC")
+
+[DH_WolverineTank]
+VehicleNameString="M10 Wolverine"
+
+[DH_WolverineTank_British]
+VehicleNameString="Wolverine SP"
+
+[DH_ZiS5vTruck]
+VehicleNameString="ZiS-5V"
+
+[DH_ZiS5vTruckSupport]
+VehicleNameString="ZiS-5V (Logistics)"
+
+[DH_ZiS5vTruckTransport]
+VehicleNameString="ZiS-5V (Transport)"
+

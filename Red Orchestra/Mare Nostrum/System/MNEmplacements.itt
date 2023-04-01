@@ -1,0 +1,61 @@
+[ElefantinoCannonPawn]
+RangeText="Metri"
+VehiclePositionString="Equipaggia cannone da 47/32 "Elefantino""
+VehicleNameString="Cannone da 47/32 "Elefantino""
+
+[ElefantinoCarriage]
+VehiclePositionString="Sposta cannone da 47/32 "Elefantino""
+VehicleNameString="Cannone da 47/32 "Elefantino""
+
+[MNATGBase]
+TouchMessage="Equipaggio: "
+
+[MNBritishATGPawn]
+RangeText="Yards"
+
+[MNCapturedPak38CannonPawn]
+VehiclePositionString="Equipaggia il Pak38 catturato"
+VehicleNameString="Cannone Pak38 catturato"
+
+[MNCapturedPak38Carriage]
+VehiclePositionString="Sposta cannone Pak38 catturato"
+VehicleNameString="Cannone Pak38 catturato"
+
+[MNFieldRadio]
+AvailableArtyClasses=((ArtyDescription="EP"),(ArtyDescription="Fumo"),(ArtyDescription="Supporto Aereo"))
+VehiclePositionString="Trasmettere coordinate via radio"
+VehicleNameString="Radio da campo"
+
+[MNFlak88CannonPawn]
+VehiclePositionString="Equipaggia il FlaK 36"
+VehicleNameString="FlaK 36"
+
+[MNFlak88Carriage]
+VehiclePositionString="Equipaggia il Flak 18"
+VehicleNameString="Flak 18"
+
+[MNGermanATGPawn]
+HudName="Gunner"
+
+[MNOQF2Pounder]
+VehiclePositionString="Equipaggia cannone QF da 2 libbre"
+VehicleNameString="QF da 2 libbre"
+
+[MNOQF2PounderCannon]
+ProjectileDescriptions=("AP",)
+
+[MNOQF2PounderCannonPawn]
+VehiclePositionString="Equipaggia OQF da 2 libbre"
+VehicleNameString="OQF da 2 libbre"
+
+[MNPak38CannonPawn]
+VehiclePositionString="Equipaggia il Pak38"
+VehicleNameString="Pak38"
+
+[MNPak38Carriage]
+VehiclePositionString="Equipaggia il Pak38"
+VehicleNameString="Cannone anticarro Pak38"
+
+[VickersMGDamType]
+DeathString="%o è stato ucciso dalla mitragliatrice Vickers di %k."
+

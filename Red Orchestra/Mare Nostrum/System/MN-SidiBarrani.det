@@ -1,0 +1,78 @@
+[LevelInfo0]
+Title="Sidi Barrani: Ägypten, 10. Dezember 1940"
+
+[LevelSummary]
+Title="Sidi Barrani: Ägypten, 10. Dezember 1940"
+Description="Die italienische Invasion von Ägypten hat Sidi Barrani erreicht. Die italienische Armee hat die Stadt in eine Festung verwandelt und arbeitet nun daran, die Straßen auszubauen. Die britische Armee hat sich vorgenommen, die Italiener aus Ägypten zu vertreiben und hat einen Angriff vorbereitet.||
+Der erste Schritt in Operation Compass ist es, die Italiener aus Sidi Barrini zu treiben. Weiter im Westen haben haben die 11. Husaren Teile der Küstenstraße eingenommen und die Briten hoffen darauf, so viele Gefangene wie möglich zu machen.||Die Italiener haben gute Artillerieschützen, während die Briten auf Unterstützung von Matilda Panzern der 7th RTR und Feuer der HMS Ladybird haben hoffen können."
+
+[MNArtilleryTrigger0]
+Message="Benutzen Sie das Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger1]
+Message="Benutzen Sie das Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger2]
+Message="Benutzen Sie das Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger3]
+Message="Benutzen Sie das Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger4]
+Message="Benutzen Sie das Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNLevelInfo0]
+Axis.UnitName="10. Armee"
+Allies.UnitName="1st Btn, Argyll & Sutherland Highlanders"
+AxisUnitDescription="Die italienische 10. Armee besteht aus zehn Divisionen, von welchen vier, zusammen mit den "Raggruppamento Maletti", hundert Kilometer in vier Tagen nach Sidi Barrani marschiert sind. Die Raggruppamento Maletti haben die meisten der M11/39 mittleren Panzer in Libyen und eine Anzahl von L3 Panzerwagen.||Ziele:||Nutzen Sie das Netzwerk von Schützengräben und fallen Sie zurück um neue Verteidigungsstellungen zu etablieren. Wir haben Aufklärungsberichte das die Briten Matilda Panzer und Artillerieunterstützung haben. Nutzen Sie die Panzerabwehrkanonen um die feindlichen Panzer zu vernichten und verwenden Sie die MGs um die Infanterie aufzuhalten. Vergessen Sie nicht, Artillerieunterstützung anzufordern. Verteidigen Sie Sidi Barrani - koste es was es wolle!"
+AlliesUnitDescription="Als eine von neun Argyll und Sutherland Bataillonen erhält das 1st Battalion heute seine Feuertaufe bei Sidi Barrani. Was die Einheiten in Erfahrung vermissen lassen, machen sie mit ihrem Mut und Enthusiasmus wieder gut.||Ziele:||Überrumpeln Sie die äußeren Verteidigungen und achten Sie auf feindliche Panzerabwehrstellungen und Artillerie. Feuerunterstützung wird Ihnen von der HMS Ladybird geliefert, sollten Sie es benötigen."
+
+[MNObjTerritory0]
+objName=" Äußere Verteidigungslinie"
+AttackerDescription="Angreifen der äußeren Verteidigungslinie"
+DefenderDescription="Verteidigen der äußeren Verteidigungslinie"
+
+[MNObjTerritory1]
+objName="Oase"
+AttackerDescription="Einnehmen der Oase"
+DefenderDescription="Verteidigen der Oase"
+
+[MNObjTerritory2]
+objName="Hintere Verteidigungslinie"
+AttackerDescription="Angreifen der hintere Verteidigungslinie"
+DefenderDescription="Verteidigen der hintere Verteidigungslinie"
+
+[MNObjTerritory3]
+objName="Sidi Barrani"
+AttackerDescription="Einnehmen von Sidi Barrani"
+DefenderDescription="Verteidigen von Sidi Barrani"
+
+[RONoArtyVolume0]
+LocationName="Barracken"
+
+[Volume1]
+LocationName="Oase Capzone"
+
+[Volume13]
+LocationName="Sidi Barrani"
+
+[Volume14]
+LocationName="Äußeres Sidi Barrani"
+
+[Volume3]
+LocationName="Hintere Verteidigungslinie Capzone"
+
+[Volume4]
+LocationName="Sidi Barrani Capzone"
+
+[Volume5]
+LocationName="Britischer Spawn"
+
+[Volume6]
+LocationName="Äußere Verteidigungslinie Zentral"
+
+[Volume8]
+LocationName="Äußere Verteidigungslinie Westen"
+
+[Volume9]
+LocationName="Äußere Verteidigungslinie Osten"

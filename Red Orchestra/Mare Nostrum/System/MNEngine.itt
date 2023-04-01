@@ -1,0 +1,32 @@
+[CannotExitVehicleMessage]
+MustBeUnbuttoned="Devi aprire la botola prima di poter uscire dal veicolo!"
+
+[MNHintManager]
+Hints[0].Hint="Benvenuti in Mare Nostrum||Questi consigli utili compariranno di tanto in tanto durante il gioco. Prestagli attenzione, da loro può dipendere la tua sopravvivenza! Possono essere disattivati nella sezione HUD del menù di configurazione."
+
+[MNLastObjectiveMsg]
+AboutToWin="Ultimo obiettivo! -- siamo ad un passo dalla vittoria!"
+AboutToLose="Ultimo obiettivo! -- stiamo per essere sconfitti!!"
+
+[MNLevelInfo]
+Allies.UnitName="Asse"
+
+[MNObjectiveMsg]
+AxisCapture="Le truppe dell'Asse hanno catturato "
+AlliesCapture="Le forze alleate hanno catturato "
+AxisTriggeredMessage="Le forze dell'Asse hanno distrutto "
+AlliesTriggeredMessage="Gli alleati hanno distrutto "
+
+[MNRallyMsg]
+SavedPosition="Punto di raduno impostato"
+CheckObjectives="Nuovo punto di raduno! - Controlla la tua mappa!"
+RallySpam="Non puoi cambiare punto di raduno troppo frequentemente!"
+
+[MNResupplyMessage]
+ResuppliedGunner="Hai approvvigionato "
+BeenResupplied="Hai ricevuto rifornimenti da "
+
+[MNTeamGame]
+ROHints=("Puoi vedere una mappa degli obiettivi da catturare o difendere premendo %SHOWOBJECTIVES%.","Puoi 'cuocere' la granata Mills-Bomb premendo il pulsante fuoco mentre la tiri indietro per lanciarla.","Per catturare un obiettivo, devi raggiungere l'area ad esso circoscritta. Avrai bisogno del supporto di più di un commilitone per poter intraprendere e completare la cattura.","Premi %PLAYERMENU 2% per cambiare il tuo ruolo mentre sei in gioco, %PLAYERMENU% per cambiare schieramento.","Per portare il mirino della tua arma all'occhio ed avere così una maggiore precisione ed accuratezza, premi il tasto %ROIRONSIGHTS%.","Riceverai 10 punti contribuendo alla cattura di un obiettivo.","L'accucciarsi e lo sdraiarsi aiutano a stabilizzare la tua arma ed a limitarne il rinculo durante il tiro.","Per riprendere le forze, rigenera l'energia fermandoti e riposandoti un pò.","Puoi piazzare la tua mitragliatrice su praticamente ogni oggetto - premi %DEPLOY% quando vedi l'icona di posizionamento per piazzarla sul cavalletto.","Quando ricarichi, la dicitura 'Caricatore Pesante' indica che il caricatore che hai innestato sull'arma contiene più della meta' delle munizioni al suo interno.","Puoi ricaricare la tua mitragliatrice solo quando è sul cavalletto.","I giocatori ricevono 1 punto per ogni approvvigionamento effettuato ad un mitragliere che ne abbia fatto richiesta.","L'effetto della mitragliatrice è piu' devastante quando impiegata con piu' corte e controllabili raffiche.","You cannot change the DP-28 barrel, be careful not to overheat!","Durante la cattura di un obiettivo, la presenza di un caposquadra aumenta il morale della truppa e rende il tuo compito piu' semplice!","Un mitragliere non dovrebbe mai combattere da solo, al contrario deve trovare un compagno che gli guardi le spalle.","I mitraglieri hanno un campo di vista limitato quando sono in posizione fissa con cavalletto abbassato, quindi cerca di attaccarli ai fianchi.")
+GameName="Mare Nostrum"
+

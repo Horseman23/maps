@@ -1,0 +1,7 @@
+[DHNation_USA]
+NationName="United States of America"
+
+[DHUSVoice]
+SupportString[5]="We need a Bazooka!"
+SupportAbbrev[5]="Need a Bazooka"
+

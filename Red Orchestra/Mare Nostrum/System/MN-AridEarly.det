@@ -1,0 +1,56 @@
+[LevelInfo0]
+Title="Arid: Irgendwo in der nordafrikanischen Wüste"
+
+[LevelSummary]
+Title="Arid: Irgendwo in der nordafrikanischen Wüste"
+Description="Konvertierung der 'RO-Arad' Map um ein fiktives Gefecht mit einem Mix aus frühen Panzern darzustellen."
+
+[MNArtilleryTrigger1]
+Message="Funken Sie für Artillerieunterstützung"
+
+[MNArtilleryTrigger2]
+Message="Funken Sie für Artillerieunterstützung"
+
+[MNArtilleryTrigger3]
+Message="Funken Sie für Artillerieunterstützung"
+
+[MNLevelInfo0]
+Axis.UnitName="Heeresgruppe Afrika"
+Allies.UnitName="1st Armoured Division"
+AxisUnitDescription="Einheiten von Rommels Heeresgruppe Afrika und der italienischen 132. Panzerdivision Ariete; diese Einheit besteht weitestgehend aus Panzer III, M14/41 Panzern, einer Handvoll leichter Panzer II und Semovente 75/18 Sturmgeschützen. Panzergrenadiere aus der Umgebung werden Sie unterstützen."
+AlliesUnitDescription="Einheiten von Montgomerys 1st Armoured Division mit weiteren Infanterieeinheiten zur Unterstützung."
+
+[MNObjTerritory0]
+objName="Straße nach Süden"
+AttackerDescription="Nehmen Sie die Straße nach Süden ein"
+DefenderDescription="Hold die Straße nach Süden"
+
+[MNObjTerritory1]
+objName="Straße nach Norden"
+AttackerDescription="Nehmen Sie die Straße nach Norden ein"
+DefenderDescription="Halten Sie die Straße nach Norden"
+
+[MNObjTerritory3]
+objName="Das südliche Dorf"
+AttackerDescription="Nehmen Sie das südliche Dorf ein"
+DefenderDescription="Halten Sie das südliche Dorf"
+
+[MNObjTerritory4]
+objName="Das nördliche Dorf"
+AttackerDescription="Nehmen Sie das nördliche Dorf ein"
+DefenderDescription="Halten Sie das nördliche Dorf"
+
+[Volume11]
+LocationName="Nördliche Straße"
+
+[Volume3]
+LocationName="Südliche Straße"
+
+[Volume4]
+LocationName="Nördliches Dorf"
+
+[Volume5]
+LocationName="Südliches Dorf"
+
+[ZoneInfo1]
+LocationName="Tunesien"

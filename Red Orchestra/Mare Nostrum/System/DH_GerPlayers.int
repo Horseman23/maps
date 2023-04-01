@@ -1,0 +1,81 @@
+[DHGerVoice]
+SupportStringAxis[5]="We need a Panzerschreck!"
+SupportAbbrevAxis[5]="Need a Panzerschreck"
+
+[DHNation_Germany]
+NationName="Germany"
+NativeNationName="Deutschland"
+
+[DHZVoice]
+SupportStringAxis[5]="We need a Panzerschreck!"
+SupportAbbrevAxis[5]="Need a Panzerschreck"
+
+[DH_12thSSFireteamLeader]
+AltName="Rottenführer"
+
+[DH_12thSSSquadLeader]
+AltName="Scharführer"
+
+[DH_OstTruppenRifleman]
+MyName="Osttruppe Rifleman"
+AltName="Schütze Osttruppe"
+PluralName="Osttruppe Riflemen"
+
+[DH_WHArtilleryGunner]
+MyName="Artillery Gunner"
+AltName="Artillerie Schütze"
+PluralName="Artillery Gunners"
+
+[DH_WHArtilleryOfficer]
+MyName="Artillery Officer"
+AltName="Artillerie Offizier"
+PluralName="Artillery Officers"
+
+[DH_WHSPCrew]
+MyName="Assault Gun Crewman"
+AltName="Stugbesatzung"
+PluralName="Assault Gun Crewmen"
+
+[DH_WKSquadLeader]
+AltName="Scharführer"
+
+[DH_WSSFireteamLeader]
+AltName="Rottenführer"
+
+[DH_WSSFireteamLeader_Autumn]
+AltName="Rottenführer"
+
+[DH_WSSFireteamLeader_Winter]
+AltName="Rottenführer"
+
+[DH_WSSGreatcoatFireteamLeader]
+AltName="Rottenführer"
+
+[DH_WSSGreatcoatFireteamLeader_Winter]
+AltName="Rottenführer"
+
+[DH_WSSGreatcoatSquadLeader]
+AltName="Scharführer"
+
+[DH_WSSGreatcoatSquadLeader_Winter]
+AltName="Scharführer"
+
+[DH_WSSSquadLeader]
+AltName="Scharführer"
+
+[DH_WSSSquadLeader_Autumn]
+AltName="Scharführer"
+
+[DH_WSSSquadLeader_Snow]
+AltName="Scharführer"
+
+[DH_ZBerserker]
+MyName="Berserker"
+AltName="Berserker"
+Article="a "
+PluralName="Berserkers"
+
+[DH_ZLeader]
+MyName="Zombie Leader"
+AltName="Zombie Leader"
+

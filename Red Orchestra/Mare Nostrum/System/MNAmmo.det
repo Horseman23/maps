@@ -1,0 +1,87 @@
+[BombaMod35FSmokeGrenadeAmmo]
+ItemName="Mod.35F Granate"
+
+[BombaSCRMMod35GrenadeAmmo]
+ItemName="Mod.35 Granate"
+
+[BoysATRAmmo]
+ItemName="Boys ATR Magazin"
+
+[BoysATRAmmoPickup]
+TouchMessage="Aufnehmen: Boys ATR Magazin"
+PickupMessage="Boys ATR Magazin zum Inventar hinzugefügt."
+
+[Breda30Ammo]
+ItemName="Breda 6.5mm Magazin"
+
+[Breda30AmmoPickup]
+TouchMessage="Aufnehmen: Breda MG Magazin"
+PickupMessage="Breda Magazin zum Inventar hinzugefügt."
+
+[BrenMGAmmo]
+ItemName="Bren .303 Magazin"
+
+[BrenMGAmmoPickup]
+TouchMessage="Aufnehmen: Bren Magazin"
+PickupMessage="Bren Magazin zum Inventar hinzugefügt."
+
+[British303RifleAmmo]
+ItemName="British .303 Gewehrmagazin"
+
+[British303RifleAmmoPickup]
+TouchMessage="Aufnehmen: .303 Gewehrmagazin"
+PickupMessage="Sie haben .303 Gewehrmagazin"
+
+[GeballteLadungAmmo]
+ItemName="Geballte Ladung"
+
+[Hafthohlladung3Ammo]
+ItemName="Hafthohlladung 3kg"
+
+[M1934Ammo]
+ItemName="M1934 Magazin"
+
+[M1934AmmoPickup]
+TouchMessage="Aufnehmen: M1934 Magazin"
+PickupMessage="Sie haben an M1934 Magazin."
+
+[MAB40Rd9x19Ammo]
+ItemName="40 Schuß 9mm Magazin"
+
+[MAB40Rd9x19AmmoPickup]
+TouchMessage="Aufnehmen: 40 Schuß 9mm Magazin"
+PickupMessage="40 Schuß 9x19mm Magazin zum Inventar hinzugefügt."
+
+[MN65x52Ammo]
+ItemName="6.5x52 Magazin"
+
+[MN65x52AmmoPickup]
+TouchMessage="Aufnehmen: 6.5x52mm Magazin"
+PickupMessage="6 Schuß 6.5x52mm Magazin zum Inventar hinzugefügt."
+
+[No36MGrenadeAmmo]
+ItemName="No36M Granate"
+
+[P35Ammo]
+ItemName="M1935 Magazin"
+
+[P35AmmoPickup]
+TouchMessage="Aufnehmen: P35 Magazin"
+PickupMessage="Sie haben ein P35 Magazin."
+
+[Pattern14RifleAmmo]
+ItemName="British .303 Gewehrmagazin"
+
+[PzB39Ammo]
+ItemName="7.92mm PzB39 Magazin"
+
+[PzB39AmmoPickup]
+TouchMessage="Aufnehmen: 7.92mm PzB39 Schuß"
+PickupMessage="Sie haben ein 7.92mm PzB39 Schuß."
+
+[ThompsonAmmo]
+ItemName="Thompson .45ACP Magazin"
+
+[ThompsonAmmoPickup]
+TouchMessage="Aufnehmen: Thompson Magazin"
+PickupMessage="Sie haben ein Thompson Magazin."

@@ -1,0 +1,61 @@
+[LevelInfo0]
+Title="Kreta: Maleme Flugfeld, 21 Mai 1941"
+
+[LevelSummary]
+Title="Kreta: Maleme Flugfeld, 21 Mai 1941"
+Description="Gestern hat die deutsche Luftlandeinvasion Kretas begonnen. Eine große Zahl von Landungen in Heraklion, Rethimon und Maleme wurden berichtet. Die Deutschen haben schwere Verluste erlitten, aber je länger sie standhalten, desto mehr Truppen zur Verstärkung werden eintreffen. Eine der wichtigsten Landezonen ist bei Malem wo das Flugfeld eingenommen wurde und so Nachschubtransporte einfliegen können. Die Alliierten müssen dieses Gebiet einnehmen und die Deutschen zurücktreiben - aber das Gelände wird nicht ohne schwere Kämpfe zu gewinnen sein!"
+
+[MNArtilleryTrigger0]
+Message="Benutzen Sie Ihr Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger1]
+Message="Benutzen Sie Ihr Funkgerät um Artillerieunterstützung anzufordern."
+
+[MNArtilleryTrigger2]
+Message="Benutzen Sie Ihr Funkgerät um Luftunterstützung anzufordern."
+
+[MNArtilleryTrigger3]
+Message="Benutzen Sie Ihr Funkgerät um Luftunterstützung anzufordern."
+
+[MNLevelInfo0]
+Axis.UnitName="7. Flieger"
+Allies.UnitName="5th New Zealand Infantry Brigade"
+AxisUnitDescription="Ziele:||Nach der Einnahme des R.A.F Stützpunktes bei Maleme haben Sie nun den Auftrag, die Alliierten Richtung Osten entlang der Küste zurückzustoßen. Sie haben schwere Verluste in den vorherigen Kämpfen erlitten und Ihre Einheiten sind entsprechend ausgedünnt. Feindliche Panzereinheiten wurden gesichtet - aber wenn Sie sich in den höheren Gebieten aufhalten sind Sie relativ sicher. Es befinden sich noch immer funktionstüchtige feindliche Flugabwehrkanonen in der Gegend die unsere Flugzeuge behindern; sehen Sie zu, dass Sie diese ausschalten können!"
+AlliesUnitDescription="Ziele:||Sie müssen den deutschen Vorstoß so lange es geht herauszögen. Sobald wir die Widerstandsnester ausgeräumt haben können wir einen Gegenangriff wagen und die Deutschen zurücktreiben. Sie haben die Unterstützung der Husaren und des 7th Royal Tank Regiment mit ihren Vickers Mk VI und Matilda Panzern. Setzen Sie diese gewissenhaft ein da Sie nur eine begrenzte Anzahl an Panzern zur Verfügung haben!"
+
+[MNObjTerritory0]
+objName="Felder"
+AttackerDescription="Finden Sie Ihren Abwurfkanister und nehmen Sie die Felder in den Außenbezirken von Pirgo ein."
+DefenderDescription="Feindliche Fallschirmjäger sind in der Gegend um Pirgo gelandet; vernichten Sie sie!"
+
+[MNObjTerritory1]
+objName="Südliches Pirgo"
+AttackerDescription="Nehmen Sie Pirgo ein."
+DefenderDescription="Verteidigen Sie das südliche Pirgo."
+
+[MNObjTerritory2]
+objName="Olivenhaine"
+AttackerDescription="Einnehmen des Olivenhaines"
+DefenderDescription="Verteidigen des Olivenhaines"
+
+[MNObjTerritory4]
+objName="Nördliches Pirgo"
+AttackerDescription="Vertreiben Sie den Feind aus Pirgo"
+DefenderDescription="Verteidigen Sie Pirgo"
+
+[MNObjTerritory5]
+objName="Pass"
+AttackerDescription="Sichern des Passes"
+DefenderDescription="Verteidigen des Passes"
+
+[RODestroyableStaticMesh0]
+OnDestroyCriticalMessage="Eine Flugabwehrkanone wurde zerstört; ein zusätzlicher Luftschlag ist verfügbar!"
+
+[RODestroyableStaticMesh2]
+OnDestroyCriticalMessage="Eine Flugabwehrkanone wurde zerstört; ein zusätzlicher Luftschlag ist verfügbar!"
+
+[RODestroyableStaticMesh3]
+OnDestroyCriticalMessage="Eine Flugabwehrkanone wurde zerstört; ein zusätzlicher Luftschlag ist verfügbar!"
+
+[RODestroyableStaticMesh4]
+OnDestroyCriticalMessage="Eine Flugabwehrkanone wurde zerstört; ein zusätzlicher Luftschlag ist verfügbar!"

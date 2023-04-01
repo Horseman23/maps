@@ -1,0 +1,53 @@
+[LevelInfo0]
+Title="Citta Della Sabbia: Ägypten, 14. Dezember 1940"
+LocationName="Citta Della Sabbia"
+
+[LevelSummary]
+Title="Citta Della Sabbia: Ägypten, 14.Dezember 1940"
+Description="Die italienische Invasion Ägyptens hat sich bis nach Sidi Barrini erstreckt. Die italienische Armee hat die Ortschaft Citta Della Sabbia zur Festung ausgebaut. Die britische Armee hat sich vorgenommen, die 10. Armee der Italiener aus Ägypten zu vertreiben und hat einen Angriff geplant.||Zuerst müssen die Italiener jedoch aus Citta Della Sabbia vertrieben werden - ein für alle Mal. Weiter westliche haben die 11. Husaren es geschafft, die Küstenstraße einzunehmen und die Briten hoffen darauf, so viele Gefangene wie möglich zu machen."
+
+[MNLevelInfo1]
+Axis.UnitName="10. Armee"
+Allies.UnitName="1st Btn, Argyll & Sutherland Highlanders"
+AxisUnitDescription="Die italienische 10. Armee bestand aus zehn Divisionen von denen vier aus Teilen der 'Raggruppamento Maletti' bestand. Die Raggruppamento Maletti enthielt die meisten der M11/39 mittleren Panzer in Libyen und eine kleine Anzahl von L3 Panzerwagen.||Ziele:||Helfen Sie bei der Verteidigung der Festung im Stadtkern und behalten Sie die Kontrolle über das Gefängnis und das Lagerhaus. Die Aufklärung berichtet von britischen Matilda Panzern. Setzen Sie die Sprengladungen Ihrer Pioniere ein um die feindlichen Panzer auszuschalten und Ihre MG-Stellungen, um die feindliche Infanterie aufzuhalten. Verteidigen Sie Citta Della Sabbia bis zum letzten Mann!"
+AlliesUnitDescription="Das 1st Battalion ist eins von neun Argyll und Sutherland Bataillonen und wird heute erfahren was es heißt zu kämpfen. Was die Truppen an Erfahrung vermissen lassen machen Sie mit Ihrem Mut und ihrer Entschlossenheit wieder gut.||Ziele:||Greifen Sie die Festung im Stadtinneren an. Sie müssen die Kontrolle über Gefängnis, Lagerhaus und Festung übernehmen um zu gewinnen. Achten Sie auf feindliche Pioniere und Infanterie die es versucht, sich Ihnen in den Weg zu stellen. Nehmen Sie Citta Della Sabbia auf jeden Fall ein, koste es was es wolle!"
+
+[MNObjTerritory0]
+objName="Prigione"
+AttackerDescription="Angreifen des Prigione"
+DefenderDescription="Verteidigen des Prigione"
+ObjectiveName="Prigione"
+
+[MNObjTerritory12]
+objName="Dispensa"
+AttackerDescription="Einnehmen von Dispensa"
+DefenderDescription="Verteidigen von Dispensa"
+
+[MNObjTerritory5]
+objName="Fortezza"
+AttackerDescription="Einnehmen von Fortezza"
+DefenderDescription="Verteidigen von Fortezza"
+
+[ROMineVolume12]
+WarningMessage="Deserteur! Ihr Leben ist verwirkt!"
+
+[ROMineVolume17]
+WarningMessage="Deserteur! Ihr Leben ist verwirkt!"
+
+[ROMineVolume2]
+WarningMessage="Deserteur! Ihr Leben ist verwirkt!"
+
+[ROMineVolume7]
+WarningMessage="Deserteur! Ihr Leben ist verwirkt!"
+
+[ROMineVolume9]
+WarningMessage="Deserteur! Ihr Leben ist verwirkt!"
+
+[Volume4]
+LocationName="Fortezza"
+
+[Volume7]
+LocationName="Prigione"
+
+[Volume8]
+LocationName="Dispensa"

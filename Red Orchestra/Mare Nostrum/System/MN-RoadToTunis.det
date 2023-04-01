@@ -1,0 +1,40 @@
+[LevelInfo0]
+Title="Straße nach Tunis: 22. April 1943"
+
+[LevelSummary]
+Title="Straße nach Tunis: 22. April 1943"
+Description="Über die letzten fünf Monate hinweg haben alliierte Einheiten für Kontrolle über Tunesien gekämpft. Das britische Kommando scheint den Sieg schon schmecken zu können und hat sich darum für einen erneuten Vorstoß auf die Hauptstadt Tunis entschieden. Alliierte Truppen haben die Möglichkeit, zwei Wege zu nehmen: Die nördliche Küstenstraße oder die Pässe, die sich durch die Täler des Atlasgebirges winden. Es liegt nun am XXX Corps dass der gut verschanzte Feind aus genau einem dieser Pässe vertrieben wird. Es wird nicht einfach."
+
+[MNArtilleryTrigger0]
+Message="Funken Sie das HQ an um Artillerieunterstützung anzufordern"
+
+[MNLevelInfo1]
+Axis.UnitName="15. Panzerdivision"
+Allies.UnitName="XXX Corps"
+AxisUnitDescription="Die 15. Panzerdivision||Ziele:||Den Engländer ist bald ein Durchbruch im Norden gelungen, aber wir müssen weiterhin die Stellung halten und sie so lange es geht daran hindern. Unsere Kanonen sind besser als die der Briten und wir haben sogar einige Tiger zur Verfügung. Die britischen Panzer müssen näher herankommen um effektiv zu sein, aber wir können Sie von größerer Entfernung aus angreifen. Die Engländer denken dass sie uns von dem Pass vertreiben könnten - zeigen Sie ihnen wie falsch sie mit dieser Idee liegen!"
+AlliesUnitDescription="Die British Armoured 30th Division wurde 1941 gegründet und war an intensiven Kämpfen in Nordafrika beteiligt. Nachdem sie die Schlacht um El Alamein überlebt hat, sind ihre Einheiten gestählte Soldaten und haben den Kampfeswillen um wichtige Gefechte zu gewinnen.||Ziele:||Die Deutschen halten sich in einem Tal des Atlasgebirges auf. Um nach Tunis vorzustoßen müssen Sie sie von dort vertreiben. Die Deutschen agieren von einem kleinem Flugfeld am Ende des Tales aus. Wir haben einige ihrer Tiger Panzer in der Gegend gesichtet. Nutzen Sie das Gelände als Deckung und versuchen Sie ihre Panzer von den Flanken oder hinten aus anzugreifen."
+
+[MNObjTerritory1]
+objName="Nördliche Kreuzung"
+AttackerDescription="Einnehmen der nördlichen Kreuzung"
+DefenderDescription="Verteidigen der nördlichen Kreuzung"
+
+[MNObjTerritory2]
+objName="Südliche Kreuzung"
+AttackerDescription="Einnehmen der südlichen Kreuzung"
+DefenderDescription="Verteidigen der südlichen Kreuzung"
+
+[MNObjTerritory3]
+objName="Verlassenes Dorf"
+AttackerDescription="Einnehmen des verlassenen Dorfes"
+DefenderDescription="Verteidigen der verlassenen Dorfes"
+
+[MNObjTerritory4]
+objName="Kommandoposten"
+AttackerDescription="Einnehmen der Kommandoposten"
+DefenderDescription="Verteidigen der Kommandoposten"
+
+[MNObjTerritory5]
+objName="Weg zum Flugfeld"
+AttackerDescription="Einnehmen des Weges zum Flugfeld"
+DefenderDescription="Verteidigen des Weges zum Flugfeld"

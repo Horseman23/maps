@@ -1,0 +1,75 @@
+[LevelInfo0]
+Title="Sidi Barrani: Egitto, 10 Dicembre 1940"
+
+[LevelSummary]
+Title="Sidi Barrani: Egitto, 10 Dicembre 1940"
+Description="L'invasione italiana in Egitto è giunta a Sidi el Barrani. L'armata italiana si è fermata qui, fortificando i dintorni del villaggio per poter così consentire nel frattempo la costruzione di vie di comunicazioni più adeguate e di migliorare così l'assetto delle varie postazioni difensive, vista anche la necessità di accamparsi avendo già troppo allungato la vitale linea di rifornimenti. Ad ogni modo, dopo un ripiegamento iniziale verso Alessandria, l'esercito britannico è determinato a contrattaccare la 10a armata italiana per respingerla verso la Libia.||La prima mossa dell'Operazione Compass consiste nel costringere gli italiani a ritirarsi da Sidi Barrani una volta per tutte. Più a Ovest, l'11° Ussari è riuscito a tagliare la strada costiera ad Ovest di Sidi el Barrani e di conseguenza i britannici sperano di catturare il maggior numero di prigionieri possibile.||Gli italiani hanno degli ottimi tiratori che hanno da offrire un intenso e letale fuoco di artiglieria indiretto, mentre i britannici godono dell'assistenza mobile dei carri Matilda del 7° RTR e del fuoco di sopporto della cannoniera HMS Ladybird, attraccata al largo di Sidi el Barrani."
+
+[MNArtilleryTrigger0]
+Message="Usa la radio per richiedere supporto di artiglieria al QG."
+
+[MNArtilleryTrigger1]
+Message="Usa la radio per richiedere supporto di artiglieria al QG."
+
+[MNArtilleryTrigger2]
+Message="Usa la radio per richiedere supporto di artiglieria al QG."
+
+[MNArtilleryTrigger3]
+Message="Usa la radio per richiedere supporto di artiglieria al QG."
+
+[MNLevelInfo0]
+Axis.UnitName="10a Armata"
+Allies.UnitName="1°Btg, Argyll & Sutherland Highlanders"
+AxisUnitDescription="La 10a Armata Italiana era formata da 10 divisioni, 4 delle quali (assieme al "Raggruppamento Maletti") hanno marciato per un centinaio di chilometri in quattro giorni in direzione di Sidi Barrani. Il Raggruppamento Maletti era formato per lo più dalla maggior parte dei carri leggeri M11/39 disponibili in Libia, più diversi carri veloci L33.||Obbiettivi:||Disponiti con ordine sulla nostra rete di trincee, e nel caso tu debba ritirarti, fallo in maniera coordinata in modo da poterti riorganizzare su una nuova linea di difesa. Gli ultimi rapporti del Comando riferiscono che gli inglesi vantano l'appoggio di carri tipo Matilda e artiglieria pesante via mare. Dobbiamo sfruttare al meglio i cannoni anticarro per far fuori i carri ed impostare un fuoco radente di mitragliatrici per falciare la fanteria che si muove allo scoperto. Allo stesso tempo, in caso di necessità, possiamo richiedere l'appoggio dei bombardieri via radio. Dobbiamo difendere Sidi Barrani a tutti i costi!!"
+AlliesUnitDescription="Primo dei nove battaglioni Argyll & Sutherland, il 1° Battaglione riceve oggi il battesimo del fuoco, a Sidi el Barrani. Nonostante le truppe siano totalmente inesperte, esse sono cariche emotivamente per il loro esordio sul campo.||Obbiettivi:||Raggiungi velocemente il perimetro difensivo, sfruttando il seppur limitato appoggio dei carri Matilda ed i rari punti di riparo naturali. Fai attenzione alle postazioni anticarro nemiche ed ai possibili devastanti bombardamenti. Se doveste averne bisogno, avete a vostra disposizione il fuoco indiretto della cannoniera Ladybird."
+
+[MNObjTerritory0]
+objName="Prima Linea"
+AttackerDescription="Attacca la prima linea italiana"
+DefenderDescription="Difendi la prima linea"
+
+[MNObjTerritory1]
+objName="Oasis"
+AttackerDescription="Cattura l'oasi"
+DefenderDescription="Difendi l'oasi"
+
+[MNObjTerritory2]
+objName="Seconda Linea"
+AttackerDescription="Attacca la seconda linea"
+DefenderDescription="Difendi la seconda linea"
+
+[MNObjTerritory3]
+objName="Sidi el Barrani"
+AttackerDescription="Cattura Sidi Barrani"
+DefenderDescription="Difendi Sidi Barrani"
+
+[RONoArtyVolume0]
+LocationName="Base italiana"
+
+[Volume1]
+LocationName="Oasi"
+
+[Volume13]
+LocationName="Sidi el Barrani"
+
+[Volume14]
+LocationName="appena fuori Sidi Barrani"
+
+[Volume3]
+LocationName="area cattura di seconda linea"
+
+[Volume4]
+LocationName="area cattura di Sidi Barrani"
+
+[Volume5]
+LocationName="Linea rinforzi britannica"
+
+[Volume6]
+LocationName="Settore centrale di prima linea"
+
+[Volume8]
+LocationName="Settore Ovest di prima linea"
+
+[Volume9]
+LocationName="Settore Est di prima linea"
+

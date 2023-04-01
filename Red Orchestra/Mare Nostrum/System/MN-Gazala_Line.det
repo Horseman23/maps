@@ -1,0 +1,112 @@
+[LevelInfo0]
+Title="MN Gazala Linie"
+
+[LevelSummary]
+Title="MN Gazala Linie"
+Description="Mai/Juni 1942, Nordafrika: Rommel verlegt deutsche Einheiten nach Süden um die Alliierten zu flankieren, die die Gazala Linie besetzt halten.||Die Schlacht um Gazala hat begonnen..."
+
+[MNLevelInfo0]
+Axis.UnitName="Einheiten der 21. Panzerdivision und Panzer der Ariete Division"
+Allies.UnitName="Einheiten der 7th Armor und 50th Infantry Divisions"
+AxisUnitDescription="Deutsche Truppen versuchen einen Keil durch alliierten Linien zu treiben und haben mehr Panzer in diesem Gebiet versammelt als die Alliierten vorzuweisen haben. Nehmen Sie die Anhöhe ein die das Gebiet überblickt um die Nachschubstrecke sichern zu können. Stoßen Sie weiter vor und nehmen Sie das Dorf ein um die Alliierten zu besiegen.|Sie verfügen über akkurate und schnelle Artillerie dank der sich in der Nähe befindlichen Panzerabwehrkanonen. Panzer und Infanterie greifen aus dem Süden an, während weitere Infanterieeinheiten mit Ariete Unterstützung aus dem Norden angreifen.
+|Optional: Die Einnahme des Munitionslagers würde den Alliierten die südliche Flanke verweigern."
+AlliesUnitDescription="Nutzen Sie Ihre Panzer, Infanterie und Panzerabwehrkanonen um die Deutschen an der Einnahme der Anhöhe und des Dorfes zu hindern.|Sie haben begrenzte Artillerieunterstützung von den in der Nähe stationierten Haubitzen.|Sollten Sie das Munitionslager halten können, erlauben Sie Ihren Einheiten aus dem Süden aus flankieren zu können."
+
+[MNObjTerritory0]
+objName="Brücke"
+AttackerDescription="Einnehmen der Brücke"
+DefenderDescription="Verteidigen der Brücke"
+
+[MNObjTerritory1]
+objName="Nördliches Feld"
+AttackerDescription="Einnehmen des nördlichen Feldes"
+DefenderDescription="Halten des nördlichen Feldes"
+
+[MNObjTerritory2]
+objName="Südliches Feld"
+AttackerDescription="Einnehmen des südlichen Feldes"
+DefenderDescription="Halten des südlichen Feldes"
+
+[MNObjTerritory3]
+objName="Südliche Anhöhe"
+AttackerDescription="Einnehmen der südlichen Anhöhe"
+DefenderDescription="Verteidigen der südlichen Anhöhe"
+
+[MNObjTerritory4]
+objName="Zentrale Anhöhe"
+AttackerDescription="Einnehmen der zentralen Anhöhe"
+DefenderDescription="Halten der zentralen Anhöhe"
+
+[MNObjTerritory5]
+objName="Nördliche Höhenlinie"
+AttackerDescription="Einnehmen der nördlichen Höhenlinie"
+DefenderDescription="Halten der nördlichen Höhenlinie"
+
+[MNObjTerritory6]
+objName="Östliches Dorf"
+AttackerDescription="Einnehmen des östlichen Teils des Dorfes"
+DefenderDescription="Verteidigen des östlichen Teils des Dorfes"
+
+[MNObjTerritory7]
+objName="Munitionslager"
+AttackerDescription="Einnehmen des Munitionslagers"
+DefenderDescription="Verteidigen des Munitionslagers"
+
+[MNObjTerritory8]
+objName="Westliches Dorf"
+AttackerDescription="Einnehmen des westlichen Teils des Dorfes"
+DefenderDescription="Verteidigen des westlichen Teils des Dorfes"
+
+[ROMineVolume1]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume11]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume12]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume13]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume14]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume15]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume16]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume17]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume18]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume21]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume22]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume28]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume30]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume32]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume4]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume5]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume8]
+WarningMessage="ACHTUNG: MINEN!!!"
+
+[ROMineVolume9]
+WarningMessage="ACHTUNG: MINEN!!!"

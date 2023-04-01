@@ -1,0 +1,815 @@
+Log: Log file open, 03/17/23 15:28:24
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows NT 6.2 (Build: 9200)
+Init: Version: 3339 (128.29)
+Init: Compiled: Oct 22 2012 15:12:10
+Init: Command line: -mod=MareNostrum
+Log: Cmd=  Start=Name Value=MNPlayer
+Log: Cmd=  Start=MapExt Value=rom
+Log: Cmd=  Start=LocalMap Value=MNintro.rom
+Log: Cmd=  Start=Protocol Value=MareNostrum
+Log: Cmd=  Start=ProtocolDescription Value=MareNostrum Protocol
+Log: Cmd=  Start=;-CacheRecordPath Value=../System/*.ucl
+Log: Cmd=+ Start=CacheRecordPath Value=../MareNostrum/System/*.ucl
+Log: Cmd=+ Start=CacheRecordPath Value=../System/*.ucl
+Log: Cmd=  Start=MusicPath Value=../MareNostrum/Music
+Log: Cmd=- Start=Paths Value=../Maps/*.rom
+Log: Cmd=+ Start=Paths Value=../MareNostrum/Maps/*.rom
+Log: Cmd=+ Start=Paths Value=../MareNostrum/System/*.u
+Log: Cmd=+ Start=Paths Value=../MareNostrum/Textures/*.utx
+Log: Cmd=+ Start=Paths Value=../MareNostrum/StaticMeshes/*.usx
+Log: Cmd=+ Start=Paths Value=../MareNostrum/Animations/*.ukx
+Log: Cmd=+ Start=Paths Value=../MareNostrum/Sounds/*.uax
+Log: Cmd=+ Start=Paths Value=../MareNostrum/Music/*.ogg
+Log: Cmd=  Start=DefaultGame Value=MNEngine.MNTeamGame
+Log: Cmd=  Start=DefaultServerGame Value=MNEngine.MNTeamGame
+Log: Cmd=  Start=GUIController Value=MNInterface.MNGUIController
+Log: Cmd=  Start=Console Value=MNInterface.MNConsole
+Log: Cmd=+ Start=ServerPackages Value=MNAmmo
+Log: Cmd=+ Start=ServerPackages Value=MNEffects
+Log: Cmd=+ Start=ServerPackages Value=MNEngine
+Log: Cmd=+ Start=ServerPackages Value=MNInterface
+Log: Cmd=+ Start=ServerPackages Value=MNInventory
+Log: Cmd=+ Start=ServerPackages Value=MNRoles
+Log: Cmd=+ Start=ServerPackages Value=MNVehicles
+Log: Cmd=+ Start=ServerPackages Value=MNGame
+Log: Cmd=+ Start=ServerPackages Value=MNEmplacements
+Log: Cmd=  Start=MainMenuClass Value=MNInterface.MNMainMenu
+Log: Cmd=  Start=ConnectingMenuClass Value=MNInterface.MNServerLoading
+Log: Cmd=  Start=LoadingClass Value=MNInterface.MNServerLoading
+Log: Cmd=  Start=DisconnectMenuClass Value=MNInterface.MNNetworkStatusMessage
+Log: Cmd=  Start=;-EditPackages Value=Core
+Log: Cmd=  Start=;-EditPackages Value=Engine
+Log: Cmd=- Start=EditPackages Value=Fire
+Log: Cmd=  Start=;-EditPackages Value=UnrealEd
+Log: Cmd=- Start=EditPackages Value=IpDrv
+Log: Cmd=- Start=EditPackages Value=UWeb
+Log: Cmd=  Start=;-EditPackages Value=GamePlay
+Log: Cmd=- Start=EditPackages Value=UnrealGame
+Log: Cmd=- Start=EditPackages Value=XGame
+Log: Cmd=  Start=;-EditPackages Value=XInterface
+Log: Cmd=- Start=EditPackages Value=XAdmin
+Log: Cmd=- Start=EditPackages Value=XWebAdmin
+Log: Cmd=- Start=EditPackages Value=GUI2K4
+Log: Cmd=- Start=EditPackages Value=xVoting
+Log: Cmd=  Start=;-EditPackages Value=Editor
+Log: Cmd=- Start=EditPackages Value=UTV2004c
+Log: Cmd=- Start=EditPackages Value=UTV2004s
+Log: Cmd=+ Start=EditPackages Value=AHz_ROVehicles
+Log: Cmd=+ Start=EditPackages Value=MNAmmo
+Log: Cmd=+ Start=EditPackages Value=MNEffects
+Log: Cmd=+ Start=EditPackages Value=MNEngine
+Log: Cmd=+ Start=EditPackages Value=MNGame
+Log: Cmd=+ Start=EditPackages Value=MNInterface
+Log: Cmd=+ Start=EditPackages Value=MNInventory
+Log: Cmd=+ Start=EditPackages Value=MNRoles
+Log: Cmd=+ Start=EditPackages Value=MNVehicles
+Log: Cmd=+ Start=EditPackages Value=MNEmplacements
+Log: Cmd=  Start=Games Value=(GameType="MNEngine.MNTeamGame",ActiveMaplist="Default MN")
+Log: Cmd=  Start=DefaultTitle Value=Default MN
+Log: Cmd=  Start=DefaultGameType Value=MNEngine.MNTeamGame
+Log: Cmd=  Start=DefaultMaps Value=MN-Akaba
+Log: Cmd=  Start=DefaultMaps Value=MN-Bardia
+Log: Cmd=  Start=DefaultMaps Value=MN-FallenEmpire
+Log: Cmd=  Start=DefaultMaps Value=MN-TobrukCentral
+Log: Cmd=  Start=WinLimit Value=2
+Log: Cmd=  Start=RoundLimit Value=3
+Log: Cmd=  Start=PreStartTime Value=5
+Log: Cmd=  Start=FFDamageLimit Value=800
+Log: Cmd=  Start=FFKillLimit Value=3
+Log: Cmd=  Start=FFArtyScale Value=1.000000
+Log: Cmd=  Start=FFExplosivesScale Value=5.000000
+Log: Cmd=  Start=bSpectateFirstPersonOnly Value=False
+Log: Cmd=  Start=bSpectateLockedBehindView Value=False
+Log: Cmd=  Start=bSpectateAllowViewPoints Value=True
+Log: Cmd=  Start=bSpectateAllowRoaming Value=True
+Log: Cmd=  Start=bSpectateAllowDeadRoaming Value=False
+Log: Cmd=  Start=FFPunishment Value=FFP_Kick
+Log: Cmd=  Start=DeathMessageMode Value=DM_All
+Log: Cmd=  Start=bAllowNonTeamChat Value=False
+Log: Cmd=  Start=FriendlyFireScale Value=1.000000
+Log: Cmd=  Start=NetWait Value=0
+Log: Cmd=  Start=bForceRespawn Value=False
+Log: Cmd=  Start=bAdjustSkill Value=False
+Log: Cmd=  Start=bAllowTaunts Value=False
+Log: Cmd=  Start=bAllowTrans Value=False
+Log: Cmd=  Start=SpawnProtectionTime Value=0.000000
+Log: Cmd=  Start=LateEntryLives Value=1
+Log: Cmd=  Start=LoginMenuClass Value=MNInterface.MNUT2K4PlayerSetupPage
+Log: Cmd=  Start=bAllowPrivateChat Value=True
+Log: Cmd=  Start=bWeaponStay Value=True
+Log: Cmd=  Start=bAllowWeaponThrowing Value=True
+Log: Cmd=  Start=ResetTimeDelay Value=0
+Log: Cmd=  Start=GoalScore Value=0
+Log: Cmd=  Start=MaxLives Value=0
+Log: Cmd=  Start=TimeLimit Value=0
+Log: Cmd=  Start=SMOriginX Value=0.010000
+Log: Cmd=  Start=SMOriginY Value=0.300000
+Log: Cmd=  Start=LetterKeys[0] Value=IK_Q
+Log: Cmd=  Start=LetterKeys[1] Value=IK_W
+Log: Cmd=  Start=LetterKeys[2] Value=IK_E
+Log: Cmd=  Start=LetterKeys[3] Value=IK_R
+Log: Cmd=  Start=LetterKeys[4] Value=IK_A
+Log: Cmd=  Start=LetterKeys[5] Value=IK_S
+Log: Cmd=  Start=LetterKeys[6] Value=IK_D
+Log: Cmd=  Start=LetterKeys[7] Value=IK_F
+Log: Cmd=  Start=LetterKeys[8] Value=IK_Z
+Log: Cmd=  Start=LetterKeys[9] Value=IK_X
+Log: Cmd=  Start=bSpeechMenuUseLetters Value=False
+Log: Cmd=  Start=bSpeechMenuUseMouseWheel Value=True
+Log: Cmd=  Start=PasswordPromptMenu Value=
+Log: Cmd=  Start=ChatMenuClass Value=GUI2K4.UT2K4InGameChat
+Log: Cmd=  Start=StatsPromptMenuClass Value=GUI2K4.UT2K4StatsPrompt
+Log: Cmd=  Start=MusicManagerClassName Value=GUI2K4.StreamPlayer
+Log: Cmd=  Start=WaitingGameClassName Value=
+Log: Cmd=  Start=NeedPasswordMenuClass Value=GUI2K4.UT2K4GetPassword
+Log: Cmd=  Start=ServerInfoMenu Value=ROInterface.ROGUIServerInfo
+Log: Cmd=  Start=SteamLoginMenuClass Value=ROInterface.ROSteamLoginPage
+Log: Cmd=  Start=ConsoleHotKey Value=192
+Log: Cmd=  Start=MapNum Value=15
+Log: Cmd=  Start=Maps Value=MN-AnconaApproach
+Log: Cmd=  Start=Maps Value=MN-Akaba
+Log: Cmd=  Start=Maps Value=MN-AridLate
+Log: Cmd=  Start=Maps Value=MN-AridEarly
+Log: Cmd=  Start=Maps Value=MN-Bardia
+Log: Cmd=  Start=Maps Value=MN-Città_Della_Sabbia
+Log: Cmd=  Start=Maps Value=MN-Crete
+Log: Cmd=  Start=Maps Value=MN-FallenEmpire
+Log: Cmd=  Start=Maps Value=MN-Gazala_Line
+Log: Cmd=  Start=Maps Value=MN-RoadToTunis
+Log: Cmd=  Start=Maps Value=MN-Sened
+Log: Cmd=  Start=Maps Value=MN-SidiBarrani
+Log: Cmd=  Start=Maps Value=MN-TobrukCentral
+Log: Cmd=  Start=Maps Value=MN-TobrukCentral-CombinedArms
+Log: Cmd=  Start=Maps Value=MN-Wasser
+Init: Character set: Unicode
+Init: Base directory: C:\Program Files (x86)\Steam\steamapps\common\red orchestra\System\
+Init: Ini:..\MareNostrum\System\MareNostrum.ini   UserIni:..\MareNostrum\System\MareNostrumUser.ini
+Init: Build label:  Build RedOrchestra_Build_[2005-11-27_10.48]
+Init: Object subsystem initialized
+Localization: No localization: RedOrchestra.General.Start (int)
+Log: 	nvldumd.dll/NVIDIA GeForce GTX 1650 with Max-Q Design
+Log: Game class is 'GameInfo'
+Log: Bringing Level Entry.myLevel up for play (0) appSeconds: 3.424000...
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Log: Browse: MNintro.rom?Name=ROPlayer?Class=Engine.Pawn?Character=G_Heer1?team=1?Sex=M
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Texture Texture MN_axis_vehicles_tex.Aircraft.Ju88
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Texture Texture MN_axis_vehicles_tex.Aircraft.Ju87
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 28083->28082; refs: 308407
+Log: Game class is 'CinematicGame'
+Log: Bringing Level MNintro.myLevel up for play (0) appSeconds: 4.916000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Warning: ArtilleryMarkDirt MNintro.ArtilleryMarkDirt0 (Function ROEffects.ProjectedDecal.PreBeginPlay:0056) Accessed None 'PC'
+Warning: ArtilleryMarkDirt MNintro.ArtilleryMarkDirt1 (Function ROEffects.ProjectedDecal.PreBeginPlay:0056) Accessed None 'PC'
+Progress: Exporting MN-Wasser...
+Log: Exporting MN-Wasser.....Successful!
+Progress: Exporting MN-TobrukCentral...
+Log: Exporting MN-TobrukCentral.....Successful!
+Progress: Exporting MN-TobrukCentral-CombinedArms...
+Log: Exporting MN-TobrukCentral-CombinedArms.....Successful!
+Progress: Exporting MN-SidiBarrani...
+Log: Exporting MN-SidiBarrani.....Successful!
+Progress: Exporting MN-Sened...
+Log: Exporting MN-Sened.....Successful!
+Progress: Exporting MN-RoadToTunis...
+Log: Exporting MN-RoadToTunis.....Successful!
+Progress: Exporting MN-Gazala_Line...
+Log: Exporting MN-Gazala_Line.....Successful!
+Progress: Exporting MN-FallenEmpire...
+Log: Exporting MN-FallenEmpire.....Successful!
+Progress: Exporting MN-Crete...
+Log: Exporting MN-Crete.....Successful!
+Progress: Exporting MN-Citta_Della_Sabbia...
+Log: Exporting MN-Citta_Della_Sabbia.....Successful!
+Progress: Exporting MN-Bardia...
+Log: Exporting MN-Bardia.....Successful!
+Progress: Exporting MN-AridLate...
+Log: Exporting MN-AridLate.....Successful!
+Progress: Exporting MN-AridEarly...
+Log: Exporting MN-AridEarly.....Successful!
+Progress: Exporting MN-AnconaApproach...
+Log: Exporting MN-AnconaApproach.....Successful!
+Progress: Exporting MN-AkrotiriPeninsula...
+Log: Exporting MN-AkrotiriPeninsula.....Successful!
+Progress: Exporting MN-Akaba...
+Log: Exporting MN-Akaba.....Successful!
+Log: ALAudio: Using ALC_EXT_capture to record audio.
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Warning: Failed to load 'NULL': Can't resolve package name
+Warning: Failed to load 'Class None.': Can't resolve package name
+Warning: CinematicGame MNintro.CinematicGame (Function Engine.GameInfo.PostLogin:02F8) Accessed None 'SteamStatsAndAchievements'
+Warning: CinematicGame MNintro.CinematicGame (Function Engine.GameInfo.PostLogin:0316) Accessed None 'SteamStatsAndAchievements'
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Localization: No localization: RedOrchestra.General.Product (int)
+Localization: No localization: RedOrchestra.General.Product (int)
+Localization: No localization: RedOrchestra.General.Product (int)
+Localization: No localization: RedOrchestra.General.Product (int)
+Log: Opened viewport
+Log: Enter SetRes: 800x600 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: Creating device
+Log: xD3D9Helper::Init (QuadEmulation)
+Log: POSTFX - TripPostFX::Init successful
+Log: MultiSampling trying to use "0" samples-per-pixel, using "0" samples-per-pixel.
+Log: Quality Levels, attempting to use "0", using a quality level of "0".
+Log: Trying for 1 anisotropy, max is 16. Using 1.
+Log: Startup time: 6.557000 seconds
+Localization: No localization: RedOrchestra.General.Run (int)
+Log: Precaching: MNintro.LevelInfo0
+Log: Static mesh batches: 2372508 vertex bytes, 206286 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 78372 byte dynamic vertex buffer.
+Log: Allocating 80472 byte dynamic vertex buffer.
+Log: Allocating 117544 byte dynamic vertex buffer.
+Log: Allocating 20982 byte dynamic index buffer.
+Log: Finished precaching geometry in 0.100 seconds
+Log: Finished precaching textures in 0.155 seconds
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=G_Heer1
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=G_Heer1?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Static mesh batches: 0 vertex bytes, 0 index bytes
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-Gazala_Line?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=G_Heer1
+Log: URL: Adding default option team=1
+Log: Browse: MN-Gazala_Line?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=G_Heer1?team=1
+ScriptLog: MNServerLoading: Map name = gazala_line
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 121083->53109; refs: 741674
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-Gazala_Line.myLevel up for play (0) appSeconds: 71.688000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+Log: STEAMSTATS: SECURITY CHECK FAILED - Steam not Ready or Server not VAC Secure
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-Gazala_Line.LevelInfo0
+Log: Static mesh batches: 13710440 vertex bytes, 1647534 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 55296 byte dynamic index buffer.
+Log: Allocating 165888 byte dynamic index buffer.
+Log: Allocating 175104 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.311 seconds
+Log: Finished precaching textures in 0.624 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 56403->55186; refs: 765959
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonTeamStatus:0011) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:001F) Accessed array 'ATCannons' out of bounds (-1/14)
+Log: (Karma): KInitActorDynamics: No Model.
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+Error: MNGameReplicationInfo MN-Gazala_Line.MNGameReplicationInfo (Function ROEngine.ROGameReplicationInfo.SetATCannonActiveStatus:003D) Accessed array 'ATCannons' out of bounds (-1/14)
+ScriptLog: ROUND PLAY HAS STARTED
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: Allocating 66816 byte dynamic vertex buffer.
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0030) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0038) Accessed None
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0040) Accessed None
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00EB) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00F3) Accessed None
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00FB) Accessed None
+Warning: MNTeamGame MN-Gazala_Line.MNTeamGame (Function MNEngine.MNTeamGame.RoundInPlay.Timer:020F) Accessed None 'P'
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer2
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer2?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+Log: Allocating 96480 byte dynamic vertex buffer.
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-RoadToTunis?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer2
+Log: URL: Adding default option team=1
+Log: Browse: MN-RoadToTunis?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer2?team=1
+ScriptLog: MNServerLoading: Map name = roadtotunis
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 67473->51612; refs: 854924
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-RoadToTunis.myLevel up for play (0) appSeconds: 202.489000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-RoadToTunis.LevelInfo0
+Log: Static mesh batches: 10372356 vertex bytes, 1030668 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 390492 byte dynamic index buffer.
+Log: Allocating 509592 byte dynamic index buffer.
+Log: Allocating 647964 byte dynamic index buffer.
+Log: Allocating 665772 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.430 seconds
+Log: Finished precaching textures in 0.219 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 53923->52921; refs: 878714
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+ScriptLog: ROUND PLAY HAS STARTED
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: Allocating 101232 byte dynamic vertex buffer.
+Log: Allocating 105120 byte dynamic vertex buffer.
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0030) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0038) Accessed None
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0040) Accessed None
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00EB) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00F3) Accessed None
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00FB) Accessed None
+Warning: MNTeamGame MN-RoadToTunis.MNTeamGame (Function MNEngine.MNTeamGame.RoundInPlay.Timer:020F) Accessed None 'P'
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=BSBC_VehCrew6
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=BSBC_VehCrew6?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-Sened?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=BSBC_VehCrew6
+Log: URL: Adding default option team=1
+Log: Browse: MN-Sened?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=BSBC_VehCrew6?team=1
+ScriptLog: MNServerLoading: Map name = sened
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 65444->49475; refs: 921287
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-Sened.myLevel up for play (0) appSeconds: 463.480000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-Sened.LevelInfo0
+Log: Static mesh batches: 9174384 vertex bytes, 1021662 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 150336 byte dynamic index buffer.
+Log: Allocating 164988 byte dynamic index buffer.
+Log: Allocating 339576 byte dynamic index buffer.
+Log: Allocating 696000 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.287 seconds
+Log: Finished precaching textures in 0.213 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 52198->50584; refs: 933047
+ScriptLog: ROUND PLAY HAS STARTED
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0030) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0038) Accessed None
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0040) Accessed None
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00EB) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00F3) Accessed None
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00FB) Accessed None
+Warning: MNTeamGame MN-Sened.MNTeamGame (Function MNEngine.MNTeamGame.RoundInPlay.Timer:020F) Accessed None 'P'
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer6
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer6?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+Log: Allocating 96480 byte dynamic vertex buffer.
+Warning: MNUT2k4ServerBrowser Package.MNUT2k4ServerBrowser (Function GUI2K4.UT2k4ServerBrowser.InitComponent:0040) Accessed None 'ch_Standard'
+Warning: MNUT2k4ServerBrowser Package.MNUT2k4ServerBrowser (Function GUI2K4.UT2k4ServerBrowser.InitComponent:005C) Accessed None 'ch_Standard'
+Log: Resolving www.marenostrumgame.com...
+IRC: 2 Servers 0 Channels
+Log: Defaulting to false
+ScriptLog: MNUT2k4Browser_ServerListPageFavorites Spawned new ServerQueryClient 'Entry.ServerQueryClient'
+ScriptLog: A tab with the caption Internet already exists.
+Warning: ROUT2K4Browser_Footer Package.ROUT2K4Browser_Footer (Function GUI2K4.UT2k4Browser_Footer.UpdateActiveButtons:00CC) Accessed None 'ch_Standard'
+Warning: ROUT2K4Browser_Footer Package.ROUT2K4Browser_Footer (Function GUI2K4.UT2k4Browser_Footer.UpdateActiveButtons:00CC) Accessed None 'ch_Standard'
+Log: Resolved www.marenostrumgame.com (3.19.116.195)
+Log: Defaulting to false
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Texture Texture MN_axis_vehicles_tex.Aircraft.Ju88
+Warning: Missing Package Package MN_axis_vehicles_tex.Aircraft
+Warning: Missing Texture Texture MN_axis_vehicles_tex.Aircraft.Ju87
+ScriptLog: Prepare to play GameURL= MN-SidiBarrani?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer6
+Log: URL: Adding default option team=1
+Log: Browse: MN-SidiBarrani?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer6?team=1
+ScriptLog: MNServerLoading: Map name = sidibarrani
+ScriptLog: MNUT2k4Browser_ServerListPageFavorites Destroying ServerQueryClient 'ServerQueryClient'
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 79926->68188; refs: 1030479
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-SidiBarrani.myLevel up for play (0) appSeconds: 538.912000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-SidiBarrani.LevelInfo0
+Log: Static mesh batches: 35148256 vertex bytes, 3887976 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 64908 byte dynamic index buffer.
+Log: Allocating 99924 byte dynamic index buffer.
+Log: Allocating 186816 byte dynamic index buffer.
+Log: Allocating 197928 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.848 seconds
+Log: Finished precaching textures in 0.371 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 73200->71485; refs: 1060320
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+ScriptLog: ROUND PLAY HAS STARTED
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Log: (Karma): KInitActorDynamics: No Model.
+Warning: Failed to load 'XEffects': Can't find file for package 'XEffects'
+Warning: Failed to load 'Class XEffects.RedWhisp': Can't find file for package 'XEffects'
+Warning: Failed to load 'XEffects': Can't find file for package 'XEffects'
+Warning: Failed to load 'Class XEffects.RedWhisp': Can't find file for package 'XEffects'
+Warning: Failed to load 'XEffects': Can't find file for package 'XEffects'
+Warning: Failed to load 'Class XEffects.RedWhisp': Can't find file for package 'XEffects'
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0030) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0038) Accessed None
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:0040) Accessed None
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00EB) Accessed None 'aPlayer'
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00F3) Accessed None
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function ROEngine.ROTeamGame.RestartPlayer:00FB) Accessed None
+Warning: MNTeamGame MN-SidiBarrani.MNTeamGame (Function MNEngine.MNTeamGame.RoundInPlay.Timer:020F) Accessed None 'P'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function Engine.Vehicle.KDriverEnter:00C3) Accessed None 'C'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function Engine.Vehicle.KDriverEnter:00D3) Accessed None 'C'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function Engine.Vehicle.KDriverEnter:00EF) Accessed None 'C'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function Engine.Vehicle.KDriverEnter:0100) Accessed None 'C'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function Engine.Vehicle.KDriverEnter:0136) Accessed None 'PlayerReplicationInfo'
+Warning: Chevy30cwtPintleVickersMGPawn MN-SidiBarrani.Chevy30cwtPintleVickersMGPawn (Function ROEngine.VehicleWeaponPawn.KDriverEnter:00AC) Accessed None 'Controller'
+Warning: MatildaIICannonShellHE MN-SidiBarrani.MatildaIICannonShellHE (Function ROVehicles.HECannonShell.ProcessTouch:0309) Accessed None 'Other'
+Warning: MatildaIICannonShellHE MN-SidiBarrani.MatildaIICannonShellHE (Function ROVehicles.HECannonShell.ProcessTouch:0352) Accessed None 'Other'
+Warning: MatildaIICannonShellHE MN-SidiBarrani.MatildaIICannonShellHE (Function ROVehicles.HECannonShell.ProcessTouch:03C7) Accessed None 'Other'
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_VehCrew1
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_VehCrew1?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+Log: Allocating 96480 byte dynamic vertex buffer.
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-TobrukCentral-CombinedArms?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_VehCrew1
+Log: URL: Adding default option team=1
+Log: Browse: MN-TobrukCentral-CombinedArms?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_VehCrew1?team=1
+ScriptLog: MNServerLoading: Map name = tobrukcentral-combinedarms
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 85514->56128; refs: 815123
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-TobrukCentral-CombinedArms.myLevel up for play (0) appSeconds: 799.116000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-TobrukCentral-CombinedArms.LevelInfo0
+Log: Static mesh batches: 19511928 vertex bytes, 1903716 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 72588 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.539 seconds
+Log: Finished precaching textures in 0.303 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 59215->57837; refs: 827204
+ScriptLog: ROUND PLAY HAS STARTED
+Warning: ROMineVolume MN-TobrukCentral-CombinedArms.ROMineVolume3 (Function ROEngine.ROMineVolume.TimerPop:0222) Accessed None 'P'
+Warning: ROMineVolume MN-TobrukCentral-CombinedArms.ROMineVolume3 (Function ROEngine.ROMineVolume.TimerPop:0231) Accessed None 'P'
+Log: Allocating 92160 byte dynamic vertex buffer.
+Log: Allocating 92304 byte dynamic vertex buffer.
+Log: Allocating 92448 byte dynamic vertex buffer.
+Log: Allocating 92592 byte dynamic vertex buffer.
+Log: Allocating 92736 byte dynamic vertex buffer.
+Log: Allocating 92880 byte dynamic vertex buffer.
+Log: Allocating 93024 byte dynamic vertex buffer.
+Log: Allocating 93168 byte dynamic vertex buffer.
+Warning: Failed to load 'XEffects': Can't find file for package 'XEffects'
+Warning: Failed to load 'Class XEffects.RedWhisp': Can't find file for package 'XEffects'
+Warning: Failed to load 'XEffects': Can't find file for package 'XEffects'
+Warning: Failed to load 'Class XEffects.BlueWhisp': Can't find file for package 'XEffects'
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=BSBC_Aussie_Rifleman1
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=BSBC_Aussie_Rifleman1?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+Log: Allocating 96480 byte dynamic vertex buffer.
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-Wasser?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=BSBC_Aussie_Rifleman1
+Log: URL: Adding default option team=1
+Log: Browse: MN-Wasser?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=BSBC_Aussie_Rifleman1?team=1
+ScriptLog: MNServerLoading: Map name = wasser
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 73068->58257; refs: 992718
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-Wasser.myLevel up for play (0) appSeconds: 1032.500000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+Warning: Failed to load 'Material MN_Characters_tex.italian_heads.italian_necktieon': Failed to find object 'Material MN_Characters_tex.italian_heads.italian_necktieon'
+Warning: Failed to load 'Material MN_Characters_tex.italian_heads.italian_necktieon': Failed to find object 'Material MN_Characters_tex.italian_heads.italian_necktieon'
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-Wasser.LevelInfo0
+Log: Static mesh batches: 31588112 vertex bytes, 3835020 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 27648 byte dynamic index buffer.
+Log: Allocating 545472 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 589824 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.740 seconds
+Log: Finished precaching textures in 0.280 seconds
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 61885->60491; refs: 1007797
+ScriptLog: ROUND PLAY HAS STARTED
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer5
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer5?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Prepare to play GameURL= MN-AnconaApproach?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?bAutoNumBots=True
+ScriptLog: Attempting to close a non-existing menu page
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=NafrikaG_Heer5
+Log: URL: Adding default option team=1
+Log: Browse: MN-AnconaApproach?BonusVehicles=false?Game=MNEngine.MNTeamGame?bAutoNumBots=True?Name=ROPlayer?Class=Engine.Pawn?Character=NafrikaG_Heer5?team=1
+ScriptLog: MNServerLoading: Map name = anconaapproach
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 73753->57538; refs: 1216249
+Log: Game class is 'MNTeamGame'
+Log: Bringing Level MN-AnconaApproach.myLevel up for play (0) appSeconds: 1090.053000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+Log: (Karma): StaticMesh (BushThick_A_08) with empty Karma KAggregateGeometry.
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+ScriptLog: bAutoNumBots: True
+Log: SR: Failed to load grammar file ../Speech\TDM.xml
+ScriptLog: MaxPlayerRatio = 0.50
+ScriptLog: MaxPlayerRatio = 0.50
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+ScriptLog: MNHud started
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: Precaching: MN-AnconaApproach.LevelInfo0
+Log: Static mesh batches: 21147876 vertex bytes, 3120558 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 21504 byte dynamic index buffer.
+Log: Allocating 33792 byte dynamic index buffer.
+Log: Allocating 76800 byte dynamic index buffer.
+Log: Allocating 227136 byte dynamic index buffer.
+Log: Allocating 344160 byte dynamic index buffer.
+Log: Allocating 510360 byte dynamic index buffer.
+Log: Allocating 65536 byte dynamic vertex buffer.
+Log: Allocating 82488 byte dynamic vertex buffer.
+Log: Allocating 100156 byte dynamic vertex buffer.
+Log: Allocating 102760 byte dynamic vertex buffer.
+Log: Allocating 105700 byte dynamic vertex buffer.
+Log: Allocating 106680 byte dynamic vertex buffer.
+Log: Finished precaching geometry in 0.510 seconds
+Log: Finished precaching textures in 0.364 seconds
+Log: Allocating 107968 byte dynamic vertex buffer.
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 60278->58892; refs: 1230176
+ScriptLog: ROUND PLAY HAS STARTED
+Log: URL: Adding default option Name=ROPlayer
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=MN_euFJ5
+Log: URL: Adding default option team=1
+Log: Browse: Index.rom?disconnect?Name=ROPlayer?Class=Engine.Pawn?Character=MN_euFJ5?team=1
+Log: Failed; returning to Entry
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player ROPlayer id=20b300195d48c2ccc2651885cfea1a2f
+Log: MatchViewportsToActors: MNInterface.MNMainMenu
+ScriptLog: MainMenu: starting music Mare_Nostrum_Theme
+ScriptLog: Current game type = MNEngine.MNTeamGame
+ScriptLog: Current game type = MNEngine.MNTeamGame
+Log: appRequestExit(0)
+Localization: No localization: RedOrchestra.General.Exit (int)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Engine.dll
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Log: POSTFX - TripPostFX::CleanUp
+Exit: Windows client shut down
+Log: Unbound to D3D9Drv.dll
+Log: Unbound to Editor.dll
+Log: Unbound to Fire.dll
+Log: Unbound to XGame.dll
+Log: Unbound to IpDrv.dll
+Log: Unbound to XInterface.dll
+Log: Unbound to UWeb.dll
+Log: Unbound to ROEngine.dll
+Log: Unbound to ALAudio.dll
+Log: Waiting for file streaming thread to finish...
+Exit: OpenAL Audio subsystem shut down.
+Log: (Karma): MePoolMallocDestroy(): 378149680 structs still allocated
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 61725->0; refs: 1230176
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: FileManager: Reading 3 GByte 4850 MByte 4194732 KByte 472 Bytes from HD took 7.305712 seconds (7.088711 reading, 0.217000 seeking).
+Log: FileManager: 1.856032 seconds spent with misc. duties
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  38.777M /  8.168M
+Uninitialized: Peak Memory  519.287M /  492.156M
+Uninitialized: Allocs        1652 Current /  169155635 Total
+Uninitialized: Log file closed, 03/17/23 15:47:21

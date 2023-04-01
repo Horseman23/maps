@@ -1,0 +1,30 @@
+[DHBritishVoice]
+SupportString[5]="We need a PIAT!"
+SupportAbbrev[5]="Need a PIAT"
+
+[DHCWAntiTankRoles]
+MyName="Tank Hunter"
+AltName="Tank Hunter"
+Article="a "
+PluralName="Tank Hunters"
+
+[DHCWCorporalRoles]
+MyName="Lance Corporal"
+AltName="Lance Corporal"
+PluralName="Lance Corporals"
+
+[DHCWSergeantRoles]
+MyName="Corporal"
+AltName="Corporal"
+PluralName="Corporals"
+
+[DHCanadianVoice]
+SupportString[5]="We need a PIAT!"
+SupportAbbrev[5]="Need a PIAT"
+
+[DHNation_Britain]
+NationName="Great Britain"
+
+[DHNation_Canada]
+NationName="Canada"
+

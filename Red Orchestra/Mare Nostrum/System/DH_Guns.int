@@ -1,0 +1,140 @@
+[DH_17PounderGun]
+VehicleNameString="17 Pounder AT gun"
+
+[DH_17PounderGunCannon]
+nProjectileDescriptions=("Mk.IV APC","Mk.I HE-T")
+
+[DH_17PounderGunCannonPawn]
+RangeText="Yards"
+
+[DH_45mmM1937Gun]
+VehicleNameString="45mm 53-K (1937) AT gun"
+
+[DH_45mmM1937GunCannon]
+ProjectileDescriptions=("APBC","HE")
+nProjectileDescriptions=("BR-240","O-240")
+
+[DH_45mmM1942Gun]
+VehicleNameString="45mm M-42 AT gun"
+
+[DH_45mmM1942GunCannon]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-240","O-240","BR-240P")
+
+[DH_6PounderGun]
+VehicleNameString="6 Pounder Mk.IV AT gun"
+
+[DH_6PounderGunCannon]
+ProjectileDescriptions=("APCBC","APDS","HE")
+nProjectileDescriptions=("Mk.XT APC","Mk.I APDS","Mk.X HE-T")
+
+[DH_6PounderGunCannonPawn]
+RangeText="Yards"
+
+[DH_AT57Cannon]
+nProjectileDescriptions=("M86 APC","M303 HE-T")
+
+[DH_AT57Gun]
+VehicleNameString="57mm M1 AT gun"
+
+[DH_Bofors40mmCannon]
+ProjectileDescriptions=("HE-T","AP")
+nProjectileDescriptions=("Mk.II HE-T","M81A1 AP")
+
+[DH_Bofors40mmGun]
+VehicleNameString="Bofors 40mm gun"
+
+[DH_Flak38Gun]
+VehicleNameString="2cm FlaK 38 gun"
+
+[DH_Flak88Cannon]
+nProjectileDescriptions=("PzGr.39","Schw.Sprgr.Patr.")
+
+[DH_Flak88Gun]
+VehicleNameString="8.8cm FlaK 36 gun"
+
+[DH_Flakvierling38Gun]
+VehicleNameString="2cm Flakvierling 38 gun"
+
+[DH_LeIG18Cannon]
+ProjectileDescriptions=("HE","HEAT")
+nProjectileDescriptions=("Igr.38 Sprgr","Igr.38 HL/A")
+
+[DH_LeIG18Gun]
+VehicleNameString="7.5 cm leichtes Infanteriegeschütz 18"
+
+[DH_M116Cannon]
+ProjectileDescriptions=("HE","HEAT")
+nProjectileDescriptions=("HE M48","HEAT M66")
+
+[DH_M116Gun]
+VehicleNameString="75mm Pack Howitzer M1"
+
+[DH_M1927Cannon]
+ProjectileDescriptions=("HE","HEAT")
+nProjectileDescriptions=("OF-350","BP-350M")
+
+[DH_M1927Gun]
+VehicleNameString="76 mm regimental gun M1927"
+
+[DH_M45QuadmountGun]
+VehicleNameString="M45 Quadmount"
+
+[DH_M5Gun]
+VehicleNameString="3-inch Gun M5"
+
+[DH_M5GunCannon]
+nProjectileDescriptions=("M62 APC","M42A1 HE-T")
+
+[DH_Pak38ATGun]
+VehicleNameString="5.0 cm Pak38 AT gun"
+
+[DH_Pak38Cannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39","PzGr.40","Sprgr.Patr.38")
+
+[DH_Pak39Cannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39","PzGr.40","Sprgr.Patr.38")
+
+[DH_Pak39Gun]
+VehicleNameString="5.0cm KwK 39 gun"
+
+[DH_Pak40ATGun]
+VehicleNameString="7.5cm Pak40 AT gun"
+
+[DH_Pak40Cannon]
+ProjectileDescriptions=("APCBC","HE","APCR")
+nProjectileDescriptions=("PzGr.39","Sprgr.Patr.34","PzGr.40")
+
+[DH_Pak43ATGun]
+VehicleNameString="8.8 cm Pak43/41 AT gun"
+
+[DH_Pak43Cannon]
+nProjectileDescriptions=("PzGr.39/43","Sprgr.Patr.")
+
+[DH_PantherturmCannon]
+ProjectileDescriptions=("APCBC","APCR","HE")
+nProjectileDescriptions=("PzGr.39/42","PzGr.40/42","Sprgr.Patr.42")
+
+[DH_PantherturmGun]
+VehicleNameString="Pantherturm"
+
+[DH_ZiS2Cannon]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-271","O-271","BR-271P")
+
+[DH_ZiS2Gun]
+VehicleNameString="ZiS-2 57mm AT gun"
+
+[DH_ZiS3Cannon]
+ProjectileDescriptions=("APBC","HE")
+nProjectileDescriptions=("BR-350B","OF-350")
+
+[DH_ZiS3CannonLate]
+ProjectileDescriptions=("APBC","HE","APCR")
+nProjectileDescriptions=("BR-350B","OF-350","BR-350P")
+
+[DH_ZiS3Gun]
+VehicleNameString="ZiS-3 76mm divisional gun"
+

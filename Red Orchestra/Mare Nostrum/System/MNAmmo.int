@@ -1,0 +1,88 @@
+[BombaMod35FSmokeGrenadeAmmo]
+ItemName="Mod.35F Grenade"
+
+[BombaSCRMMod35GrenadeAmmo]
+ItemName="Mod.35 Grenade"
+
+[BoysATRAmmo]
+ItemName="Boys ATR Magazine"
+
+[BoysATRAmmoPickup]
+TouchMessage="Pick Up: Boys ATR magazines"
+PickupMessage="Boys ATR magazines added to inventory."
+
+[Breda30Ammo]
+ItemName="Breda 6.5mm Magazine"
+
+[Breda30AmmoPickup]
+TouchMessage="Pick Up: Breda MG magazines"
+PickupMessage="Breda magazine added to inventory."
+
+[BrenMGAmmo]
+ItemName="Bren .303 Magazine"
+
+[BrenMGAmmoPickup]
+TouchMessage="Pick Up: Bren magazines"
+PickupMessage="Bren magazine added to inventory."
+
+[British303RifleAmmo]
+ItemName="British .303 rifle charger"
+
+[British303RifleAmmoPickup]
+TouchMessage="Pick Up: .303 rifle chargers"
+PickupMessage="You picked up .303 rifle chargers"
+
+[GeballteLadungAmmo]
+ItemName="GeballteLadung"
+
+[Hafthohlladung3Ammo]
+ItemName="Hafthohlladung 3kg"
+
+[M1934Ammo]
+ItemName="M1934 Magazine"
+
+[M1934AmmoPickup]
+TouchMessage="Pick Up: M1934 magazine"
+PickupMessage="You picked up an M1934 magazine."
+
+[MAB40Rd9x19Ammo]
+ItemName="40rd 9mm Magazine"
+
+[MAB40Rd9x19AmmoPickup]
+TouchMessage="Pick Up: 40 round 9mm mag pouch"
+PickupMessage="40 round 9x19mm mag pouch added to inventory."
+
+[MN65x52Ammo]
+ItemName="6.5x52 clip"
+
+[MN65x52AmmoPickup]
+TouchMessage="Pick Up: 6.5x52mm clip"
+PickupMessage="6 round 6.5x52mm mag pouch added to inventory."
+
+[No36MGrenadeAmmo]
+ItemName="No36M Grenade"
+
+[P35Ammo]
+ItemName="M1935 Hi-Power Magazine"
+
+[P35AmmoPickup]
+TouchMessage="Pick Up: P35 magazine"
+PickupMessage="You picked up a P35 magazine."
+
+[Pattern14RifleAmmo]
+ItemName="British .303 rifle charger"
+
+[PzB39Ammo]
+ItemName="7.92mm PzB39 Rounds"
+
+[PzB39AmmoPickup]
+TouchMessage="Pick Up: 7.92mm PzB39 Round"
+PickupMessage="You picked up a 7.92mm PzB39 Round."
+
+[ThompsonAmmo]
+ItemName="Thompson .45ACP magazine"
+
+[ThompsonAmmoPickup]
+TouchMessage="Pick Up: Thompson magazine pouch"
+PickupMessage="You picked up a Thompson magazine pouch."
+

@@ -1,0 +1,101 @@
+[LevelInfo0]
+Title="Tunesien: Dorsale"
+
+[LevelSummary]
+Title="Tunesien: Dorsale"
+Description="Deutsche Einheiten sind in den letzten Wochen stark geschwächt worden und befinden sich im Rückzug. Das alliierte HQ will das so viele Einheiten von ihnen gefangen genommen werden bevor sich die Möglichkeit für sie ergibt, sich neu zu gruppieren. Um dies zu verhindern, müssen wir verhindern das die Deutschen an Munition, Treibstoff und andere Vorräte gelangen. Die SAS wurden damit beauftragt alle Munitionslager zu vernichten, die sie finden können.||An einem Abend im Oktober hat eine SAS Patrouille ein feindliches Munitionslager in einem der östlichen Berge der Dorsalen gefunden. Alles was sie nun zu tun haben, ist auf Dunkelheit zu warten..."
+
+[MNLevelInfo0]
+AxisUnitDescription="Ziele:||Verteidigen Sie das Munitionslagers von den angreifenden alliierten Truppen."
+AlliesUnitDescription="Ziele:||Nehmen Sie das Munitionslager ein und vernichten Sie alle Ziele die Sie finden. Benutzen Sie Ihre Nobel Sprengladungen um die verschlossenen Türen und Zäune."
+
+[MNObjSatchel0]
+objName="Antennen"
+AttackerDescription="Vernichten der Antennen"
+DefenderDescription="Verteidigen der Antennen"
+
+[MNObjSatchel1]
+objName="Fuhrpark"
+AttackerDescription="Vernichten des Fuhrparks"
+DefenderDescription="Verteidigen des Fuhrparks"
+
+[MNObjTerritory0]
+objName="Munitionsbunker"
+AttackerDescription="Einnehmen des Munitionsbunkers"
+DefenderDescription="Verteidigen des Munitionsbunkers"
+
+[MNObjTerritory1]
+objName="Kommandobunker"
+AttackerDescription="Einnehmen des Kommandobunkers"
+DefenderDescription="Verteidigen des Kommandobunkers"
+
+[MNObjTerritory2]
+objName="Rangierbahnhof"
+AttackerDescription="Einnehmen des Rangierbahnhofs"
+DefenderDescription="Verteidigen der Rangierbahnhofs"
+
+[RODestroyableStaticMesh13]
+OnDestroyCriticalMessage="Ein Teil des Schutzzauns wurde aufgebrochen!"
+
+[RODestroyableStaticMesh3]
+OnDestroyCriticalMessage="Eine Bunkertür wurde aufgebrochen!"
+
+[RODestroyableStaticMesh4]
+OnDestroyCriticalMessage="Ein Teil des Schutzzauns wurde aufgebrochen!"
+
+[RODestroyableStaticMesh7]
+OnDestroyCriticalMessage="Ein Teil des Schutzzauns wurde aufgebrochen!"
+
+[RODestroyableStaticMesh8]
+OnDestroyCriticalMessage="Ein Teil des Schutzzauns wurde aufgebrochen!"
+
+[ROMineVolume2]
+WarningMessage="Achtung: Sie verlassen das Kampfgebiet. Kehren Sie sofort um!"
+
+[ROMineVolume3]
+WarningMessage="Achtung: Sie verlassen das Kampfgebiet. Kehren Sie sofort um!"
+
+[ROMineVolume4]
+WarningMessage="Achtung: Sie verlassen das Kampfgebiet. Kehren Sie sofort um!"
+
+[ROMineVolume7]
+WarningMessage="Achtung: Sie befinden sich in einem Minenfeld!"
+
+[ROMineVolume8]
+WarningMessage="Achtung: Sie befinden sich in einem Minenfeld!"
+
+[Trigger0]
+Message="Die Tür ist von innen verschlossen"
+
+[Volume10]
+LocationName="Hauptbunker"
+
+[Volume11]
+LocationName="Hauptbunker"
+
+[Volume12]
+LocationName="Seiteneingang"
+
+[Volume2]
+LocationName="Rangierbahnhof"
+
+[Volume3]
+LocationName="Haupttor"
+
+[Volume4]
+LocationName="Fuhrpark"
+
+[Volume5]
+LocationName="Schutzzaun"
+
+[Volume6]
+LocationName="Depot"
+
+[Volume7]
+LocationName="Munitionsbunker"
+
+[Volume8]
+LocationName="Munitionsbunker Tunnel"
+
+[Volume9]
+LocationName="Depot"

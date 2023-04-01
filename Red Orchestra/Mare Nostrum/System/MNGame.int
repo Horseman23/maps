@@ -1,0 +1,5 @@
+[Bomb250kgDamType]
+DeathString="%o was blown up by %k's air strike."
+FemaleSuicide="%o was careless with her own air strike."
+MaleSuicide="%o was careless with his own air strike."
+

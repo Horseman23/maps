@@ -1,0 +1,42 @@
+[CannotExitVehicleMessage]
+MustBeUnbuttoned="You must be unbuttoned before exiting this vehicle!"
+
+[MNAirStrikeMessage]
+SavedPosition="Air Support Position Saved"
+RequestStrike="This is Platoon Commander Requesting Air Support"
+StrikeDenied="This is Headquarters Air Support Denied"
+StrikeConfirmed="This is Headquarters, Air Support Confirmed"
+NoCoords="No Coordinates Selected Yet!"
+InvalidTarget="Not a Valid Air Support Target!"
+OutOfStrikes="Your Sorties for This Mission Are Exhausted"
+TryAgainLater="We Cannot Spare Another Sortie So Soon!"
+TryAgainSoon="Another Sortie Will Be Available Soon"
+StrikesRemaining="Sorties Remaining"
+NoArtyAvailable="No Air Support Available"
+
+[MNHintManager]
+Hints[0].Hint="Welcome to Mare Nostrum||These hint messages will show up periodically in the game. Pay attention to them, your survival might depend on it! They can be disabled from the HUD tab in the configuration menu."
+
+[MNLastObjectiveMsg]
+AboutToWin="Last objective -- we have almost won the battle!"
+AboutToLose="Last objective -- we have almost lost the battle!"
+
+[MNObjectiveMsg]
+AxisCapture="The Axis forces have captured "
+AlliesCapture="The Allied forces have captured "
+AxisTriggeredMessage="The Axis forces destroyed "
+AlliesTriggeredMessage="The Allied forces have destroyed "
+
+[MNRallyMsg]
+SavedPosition="Rally Point Saved"
+CheckObjectives="New Rally Point - Check Your Map!"
+RallySpam="Cannot Change Rally Point This Soon!"
+
+[MNResupplyMessage]
+ResuppliedGunner="Successfully resupplied "
+BeenResupplied="You have received ammo from "
+
+[MNTeamGame]
+ROHints=("You can see a map of the objectives that need to be captured or defended by pressing %SHOWOBJECTIVES%.","You can 'cook' the Mills-Bomb grenade by pressing the opposite fire button while holding the grenade back.","To capture an objective, you must first enter the objective area. You'll likely need more than one additional teammate to initiate and complete the capture.","Press %PLAYERMENU 2% to change your player role while in-game, %PLAYERMENU% to change your team.","To aim down the sights of your weapon and thus have better precision and accuracy, press the %ROIRONSIGHTS% key.","You receive 10 points for helping to capture an objective.","Crouching and going prone stabilizes your weapon and lowers recoil when firing.","To regenerate stamina, stop and rest for a bit.","You can deploy a Machine Gun on almost any object - press %DEPLOY% when you see the deployment icon appear to deploy it.","When reloading, 'Magazine Heavy' indicates that the magazine you're loading into your weapon is more than half full of ammunition.","You can reload your Machine Gun only when in the deployed state.","Players receive 1 point for resupplying Machine Gunners who need ammo.","The Machine Gun is more effective when fired in short, controllable bursts.","You cannot change the DP-28 barrel, be careful not to overheat!","When taking an objective, the presence of an officer boosts moral and makes your task easier!","Machine Gunners should never setup alone, find a comrade to watch your back.","Machine Gunners have a limited field of vision while deployed, so try attacking them from the side.")
+GameName="Mare Nostrum"
+

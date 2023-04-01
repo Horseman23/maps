@@ -1,0 +1,103 @@
+[LevelInfo0]
+Title="Tunisia: Sened, 20 Marzo 1943"
+
+[LevelSummary]
+Title="Tunisia: Sened, 20 Marzo 1943"
+Description="Le forze italo-tedesche sono state messe in serie difficoltà durante le ultime settimane e si stanno ritirando verso Nord. Il quartier generale alleato vuole cercare di catturare il maggior numero possibile di unità nemiche in ritirata prima che possano nuovamente riorganizzarsi. Per far questo le forze in ritirata hanno bisogno di munizioni, carburante e rifornimenti. Il reparto alleato è stato incaricato di localizzare e prendere possesso di tutte le stazioni di rifornimento di prima linea.||Una sera di Marzo, una pattuglia alleata individua un accampamento nemico nei pressi della stazione di Sened, nei pressi del settore di Gafsa el Quettar. Tutto quello che devono fare adesso, è attendere il buio della notte..."
+
+[MNLevelInfo0]
+Axis.UnitName="Truppe dell'Asse"
+Allies.UnitName="Truppe Alleate"
+AxisUnitDescription="Obbiettivi:||Difendete il deposito rifornimenti dall'assalto delle truppe alleate."
+AlliesUnitDescription="Obbiettivi:||Impadronitevi del deposito rifornimenti distruggendo tutti i bersagli che incontrerete. Usate le vostre cariche Nobel sulle porte bloccate ed il reticolato per aprirvi vie alternative durante l'assalto."
+
+[MNObjSatchel0]
+objName="Antenna"
+AttackerDescription="Distruggere l'antenna"
+DefenderDescription="Difendere l'antenna"
+
+[MNObjSatchel1]
+objName="Deposito Automezzi"
+AttackerDescription="Distruggere il deposito automezzi"
+DefenderDescription="Difendere il deposito automezzi"
+
+[MNObjTerritory0]
+objName="Deposito Munizioni"
+AttackerDescription="Catturare il deposito munizioni"
+DefenderDescription="Difendere il deposito munizioni"
+
+[MNObjTerritory1]
+objName="Bunker Comando"
+AttackerDescription="Catturare il bunker di comando"
+DefenderDescription="Difendere il bunker di comando"
+
+[MNObjTerritory2]
+objName="Binari Ferrovia"
+AttackerDescription="Ripulire la zona binari"
+DefenderDescription="Difendere il settore ferroviario"
+
+[RODestroyableStaticMesh13]
+OnDestroyCriticalMessage="E' stata aperta una breccia nel perimetro!!"
+
+[RODestroyableStaticMesh3]
+OnDestroyCriticalMessage="Una porta del bunker è stata sfondata!"
+
+[RODestroyableStaticMesh4]
+OnDestroyCriticalMessage="E' stata aperta una breccia nel perimetro!!"
+
+[RODestroyableStaticMesh7]
+OnDestroyCriticalMessage="E' stata aperta una breccia nel perimetro!!"
+
+[RODestroyableStaticMesh8]
+OnDestroyCriticalMessage="E' stata aperta una breccia nel perimetro!!"
+
+[ROMineVolume2]
+WarningMessage="Altolà! Stai evaquando l'area di combattimento. Fai subito dietrofront!"
+
+[ROMineVolume3]
+WarningMessage="Altolà! Stai evaquando l'area di combattimento. Fai subito dietrofront!"
+
+[ROMineVolume4]
+WarningMessage="Altolà! Stai evaquando l'area di combattimento. Fai subito dietrofront!"
+
+[ROMineVolume7]
+WarningMessage="Fermati! Sei entrato in una zona minata!!"
+
+[ROMineVolume8]
+WarningMessage="Fermati! Sei entrato in una zona minata!!"
+
+[Trigger0]
+Message="La porta è chiusa dall'interno!"
+
+[Volume10]
+LocationName="Bunker principale"
+
+[Volume11]
+LocationName="Bunker principale"
+
+[Volume12]
+LocationName="Entrata laterale"
+
+[Volume2]
+LocationName="Ferrovia"
+
+[Volume3]
+LocationName="Entrata principale"
+
+[Volume4]
+LocationName="Deposito automezzi"
+
+[Volume5]
+LocationName="Reticolato esterno"
+
+[Volume6]
+LocationName="Deposito"
+
+[Volume7]
+LocationName="Deposito Munizioni"
+
+[Volume8]
+LocationName="Gallerie deposito munizioni"
+
+[Volume9]
+LocationName="Deposito"
