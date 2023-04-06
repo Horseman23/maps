@@ -1,2 +1,0 @@
-Weapon=(ClassName=DH_Mortars.DH_Kz8cmGrW42Weapon,AttachmentClassName=DH_Weapons.DH_Kz8cmGrW42Attachment,FriendlyName=DH_Mortars.DH_Kz8cmGrW42Weapon.ItemName,Description=DH_Mortars.DH_Kz8cmGrW42Weapon.Description,FallbackName="Kurz 8cm Granatwerfer 42",FallbackDesc="Kurz 8cm Granatwerfer 42")
-Weapon=(ClassName=DH_Mortars.DH_M2MortarWeapon,AttachmentClassName=DH_Weapons.DH_M2MortarAttachment,FriendlyName=DH_Mortars.DH_M2MortarWeapon.ItemName,FallbackName="60mm Mortar M2",FallbackDesc="60mm Mortar M2")

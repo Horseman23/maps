@@ -1,2 +1,0 @@
-Game=(ClassName=MNEngine.MNTeamGame,GameName=MNEngine.MNTeamGame.GameName,TeamGame=1,GameAcronym=MN,MapPrefix=MN,Screenshot=MapThumbnails.ShotCTFGame,MapListClassName=MNInterface.MNMapList,Description=MNEngine.MNTeamGame.Description,FallbackName="Mare Nostrum",FallbackDesc="Two teams duke it out in a quest for battlefield supremacy.  The team with the most total frags wins.")
-Vehicle=(ClassName=MNEngine.MareNostrumDesertWheeledVehicle,FriendlyName=MNEngine.MareNostrumDesertWheeledVehicle.VehicleNameString,FallbackName="Vehicle",FallbackDesc="Vehicle")

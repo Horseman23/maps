@@ -1,2 +1,0 @@
-Weapon=(ClassName=DH_Construction.DHCameraWeapon,PickupClassName=DH_Equipment.DHBinocularsPickup,AttachmentClassName=DH_Equipment.DHBinocularsAttachment,FriendlyName=DH_Construction.DHCameraWeapon.ItemName,FallbackName="Camera",FallbackDesc="Camera")
-Weapon=(ClassName=DH_Construction.DH_ConstructionWeapon,AttachmentClassName=DH_Weapons.DH_EmptyAttachment,FriendlyName=DH_Construction.DH_ConstructionWeapon.ItemName,FallbackName=" ",FallbackDesc=" ")
